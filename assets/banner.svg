@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Trace a Life</title>
+  <desc id="desc">把商业人物传记变成可复核的证据网页</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101917"/><stop offset="1" stop-color="#263531"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#f2ede2" stroke-opacity=".055"/></pattern>
+    <filter id="grain"><feTurbulence baseFrequency=".75" numOctaves="3"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .09 0"/></filter>
+  </defs>
+  <rect width="1600" height="560" fill="url(#bg)"/><rect width="1600" height="560" fill="url(#grid)"/>
+  <rect width="1600" height="560" filter="url(#grain)" opacity=".38"/>
+  <g transform="translate(1175 280)" fill="none">
+    <ellipse rx="255" ry="160" stroke="#f2ede2" stroke-opacity=".14"/>
+    <ellipse rx="210" ry="245" transform="rotate(31)" stroke="#b84a2b" stroke-width="2" stroke-opacity=".8"/>
+    <ellipse rx="120" ry="225" transform="rotate(-28)" stroke="#b99861" stroke-opacity=".55"/>
+    <circle r="72" fill="#f2ede2" fill-opacity=".05" stroke="#f2ede2" stroke-opacity=".3"/>
+    <path d="M-370 0H-72M72 0H370M0-270V-72M0 72V270" stroke="#f2ede2" stroke-opacity=".2" stroke-dasharray="4 8"/>
+    <circle r="4" cx="-210" cy="-80" fill="#b84a2b"/><circle r="4" cx="238" cy="58" fill="#b99861"/><circle r="4" cx="-30" cy="220" fill="#f2ede2"/>
+  </g>
+  <g fill="#f2ede2">
+    <text x="105" y="105" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="5" fill="#b84a2b">PUBLIC BUSINESS BIOGRAPHY / EVIDENCE FIRST</text>
+    <text x="95" y="286" font-family="Georgia, 'Songti SC', serif" font-size="128" letter-spacing="-7">Trace a Life</text>
+    <text x="105" y="358" font-family="'Songti SC', serif" font-size="34" fill-opacity=".78">把商业人物传记，变成可复核的证据网页。</text>
+    <line x1="105" y1="420" x2="785" y2="420" stroke="#f2ede2" stroke-opacity=".24"/>
+    <text x="105" y="466" font-family="Arial, sans-serif" font-size="15" letter-spacing="2" fill-opacity=".52">IDENTITY  →  CLAIMS  →  DECISIONS  →  CONTEXT  →  LEGACY</text>
+  </g>
+</svg>

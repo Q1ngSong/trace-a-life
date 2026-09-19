@@ -1,0 +1,45 @@
+{
+  "run_id": "run-0ad75c1149a6",
+  "case_id": "fictional-founder",
+  "stage": "collection",
+  "producer": "collection-agent",
+  "consumer": "leader-agent",
+  "status": "ready",
+  "inputs": [
+    {
+      "kind": "case",
+      "path": "case.json",
+      "sha256": "7a7a2bfbce082cc901d636478db55ef700367153c1008b939e838681dd91a99f"
+    },
+    {
+      "kind": "query-plan",
+      "path": "research/query-plan.json",
+      "sha256": "048fe1ed1125f0395758e3a9d6f244711468fd54d18fc996a849a59c7b60e185"
+    }
+  ],
+  "outputs": [
+    {
+      "kind": "collection-plan",
+      "path": "research/collection-plan.json",
+      "sha256": "f4ce7f33eb83f848cf62c6644c21a8f0edef3d038bcd752cacd94421cab6faa1"
+    }
+  ],
+  "gates": [
+    {
+      "name": "precollected-sources-present",
+      "passed": true,
+      "detail": "7 source(s)"
+    },
+    {
+      "name": "external-execution-not-claimed",
+      "passed": true,
+      "detail": "collection plan remains planned-not-executed"
+    }
+  ],
+  "unresolved": [],
+  "notes": [
+    "Existing case sources are reused; no host collection call was executed by this command."
+  ],
+  "created_at": "2026-09-19T09:09:13.912744+00:00",
+  "schema_version": "xray-handoff/1"
+}

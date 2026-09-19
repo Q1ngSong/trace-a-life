@@ -1,0 +1,45 @@
+# Python caches and local metadata
+__pycache__/
+*.pyc
+.DS_Store
+
+# Private case material and local source snapshots
+/cases/
+/references/
+/output/
+/public/
+/reference-projs/
+/.worktrees/
+/tmp/
+/docs/
+/tests/
+# Local environments and build state
+/.venv/
+/.codex-build/
+/.codegraph/
+/.pytest_cache/
+/.ruff_cache/
+/.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local credentials. Keep the documented template in version control.
+.env
+.env.*
+!.env.example
+
+# Private credentials, keys, certificates, and local logs
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.secret
+*credentials*.json
+*secrets*.json
+*.log
+
+# Generated metadata
+/directory-structure.json

@@ -1,0 +1,2 @@
+experiment,baseline,commands,status,tests,outputs,limitations
+wave-1-local-web,exp/demo/local-web,python3 -B -m pytest -q tests skills/trace-a-life/tests; python3 -B scripts/build_pages.py; python3 -B scripts/build_pages.py --check,passed,76 passed; public site check passed,website/cases/*/index.html; website/manifest.json; website/downloads/trace-a-life-source.zip,No browser screenshot because local HTTP server and Cua preview were unavailable in this sandbox

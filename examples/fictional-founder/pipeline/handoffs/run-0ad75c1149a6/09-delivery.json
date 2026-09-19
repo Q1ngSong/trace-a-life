@@ -1,0 +1,53 @@
+{
+  "run_id": "run-0ad75c1149a6",
+  "case_id": "fictional-founder",
+  "stage": "delivery",
+  "producer": "qa-agent",
+  "consumer": "leader-agent",
+  "status": "ready",
+  "inputs": [
+    {
+      "kind": "case",
+      "path": "case.json",
+      "sha256": "7a7a2bfbce082cc901d636478db55ef700367153c1008b939e838681dd91a99f"
+    },
+    {
+      "kind": "page-view-model",
+      "path": "site/view-model.json",
+      "sha256": "86c273946c7ddd745d75ce336e2b7ec4210fe6f89c3ec3e86b5d05440e0c3aa7"
+    },
+    {
+      "kind": "html",
+      "path": "site/index.html",
+      "sha256": "7c181132ed184599b57e0e831bfcea252d94db288f71ebba9ea10580b4778e42"
+    }
+  ],
+  "outputs": [
+    {
+      "kind": "delivery-manifest",
+      "path": "delivery/manifest.json",
+      "sha256": "7ed652d3bba2de166619eada723a72f56380f1860624c956fed6caa280a09139"
+    },
+    {
+      "kind": "qa-report",
+      "path": "delivery/qa-report.json",
+      "sha256": "bd0fa9aef6162f4f2a680b3ef725d8c1004f20c8b743d76123ff0f30ab1957ec"
+    }
+  ],
+  "gates": [
+    {
+      "name": "delivery-qa",
+      "passed": true,
+      "detail": "0 errors"
+    },
+    {
+      "name": "manifest-current",
+      "passed": true,
+      "detail": "all registered hashes match"
+    }
+  ],
+  "unresolved": [],
+  "notes": [],
+  "created_at": "2026-09-19T09:09:13.930406+00:00",
+  "schema_version": "xray-handoff/1"
+}

@@ -1,0 +1,2 @@
+experiment,baseline,commands,status,tests,outputs,limitations
+wave-2-business-analysis,exp/demo/business-analysis,python3 -B -m pytest -q skills/trace-a-life/tests/test_business_analysis.py; python3 -B -m pytest -q tests skills/trace-a-life/tests; python3 -B skills/trace-a-life/scripts/build_analysis.py examples/fictional-founder/case.json --output /tmp/proposal.json,passed,6 targeted + 87 full,/tmp/proposal.json with xray-business-analysis/1,No causal inference or external evidence enrichment; records without explicit epistemic status remain unknown

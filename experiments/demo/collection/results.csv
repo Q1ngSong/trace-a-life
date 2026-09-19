@@ -1,0 +1,2 @@
+experiment_id,status,command,observed,unverified,notes
+demo-collection-wave1,passed,"python3 -m unittest discover -s skills/trace-a-life/tests -p 'test_collection_ingest.py' -v; python3 -m unittest discover -s skills/trace-a-life/tests -p 'test_integrations.py' -v","5 ingest tests and 17 existing integration tests passed; replay and live-attested fixtures wrote collection artifacts","actual host execution and provider payload variants","uses generic collection Receipt normalization; no network performed"

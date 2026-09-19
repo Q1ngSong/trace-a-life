@@ -1,0 +1,283 @@
+{
+  "claims": [
+    {
+      "blockers": [],
+      "claim_id": "claim-001",
+      "counter_lineages": [],
+      "counter_origin_clusters": [],
+      "counter_source_ids": [],
+      "counterevidence_note": "用公司曾用名与登记号检索，未发现更早的同一法律实体；品牌更早出现但属于贸易个体户。",
+      "declared_status": "verified",
+      "has_conflict": false,
+      "importance": "critical",
+      "independent_counter_count": 0,
+      "independent_support_count": 1,
+      "lineage_conflicts": [],
+      "missing_source_ids": [],
+      "quoted_support_count": 1,
+      "strong_support_lineage_count": 1,
+      "support_lineages": [
+        [
+          "src-001"
+        ]
+      ],
+      "support_origin_clusters": [
+        "registry-nanpu"
+      ],
+      "support_source_ids": [
+        "src-001"
+      ],
+      "unclassified_source_ids": [],
+      "warnings": []
+    },
+    {
+      "blockers": [],
+      "claim_id": "claim-002",
+      "counter_lineages": [],
+      "counter_origin_clusters": [],
+      "counter_source_ids": [],
+      "counterevidence_note": "检索1988–1992年地方工商摘要与行业报刊，尚未找到对应金额或交易对手。",
+      "declared_status": "self_reported",
+      "has_conflict": false,
+      "importance": "critical",
+      "independent_counter_count": 0,
+      "independent_support_count": 1,
+      "lineage_conflicts": [],
+      "missing_source_ids": [],
+      "quoted_support_count": 1,
+      "strong_support_lineage_count": 0,
+      "support_lineages": [
+        [
+          "src-002"
+        ]
+      ],
+      "support_origin_clusters": [
+        "lin-interview-2009"
+      ],
+      "support_source_ids": [
+        "src-002"
+      ],
+      "unclassified_source_ids": [],
+      "warnings": []
+    },
+    {
+      "blockers": [],
+      "claim_id": "claim-003",
+      "counter_lineages": [],
+      "counter_origin_clusters": [],
+      "counter_source_ids": [],
+      "counterevidence_note": "没有证据支持后来采访中“完全靠自有现金拿下”的绝对说法。",
+      "declared_status": "credible",
+      "has_conflict": false,
+      "importance": "critical",
+      "independent_counter_count": 0,
+      "independent_support_count": 2,
+      "lineage_conflicts": [],
+      "missing_source_ids": [],
+      "quoted_support_count": 2,
+      "strong_support_lineage_count": 2,
+      "support_lineages": [
+        [
+          "src-003"
+        ],
+        [
+          "src-004"
+        ]
+      ],
+      "support_origin_clusters": [
+        "park-annual-2003",
+        "north-finance-2003"
+      ],
+      "support_source_ids": [
+        "src-003",
+        "src-004"
+      ],
+      "unclassified_source_ids": [],
+      "warnings": []
+    },
+    {
+      "blockers": [],
+      "claim_id": "claim-004",
+      "counter_lineages": [],
+      "counter_origin_clusters": [],
+      "counter_source_ids": [],
+      "counterevidence_note": "债务重组公告与后来的公司回顾在动机表述上存在差异。",
+      "declared_status": "partial",
+      "has_conflict": false,
+      "importance": "supporting",
+      "independent_counter_count": 0,
+      "independent_support_count": 1,
+      "lineage_conflicts": [],
+      "missing_source_ids": [],
+      "quoted_support_count": 1,
+      "strong_support_lineage_count": 1,
+      "support_lineages": [
+        [
+          "src-005"
+        ]
+      ],
+      "support_origin_clusters": [
+        "exchange-restructuring-2017"
+      ],
+      "support_source_ids": [
+        "src-005"
+      ],
+      "unclassified_source_ids": [],
+      "warnings": []
+    },
+    {
+      "blockers": [],
+      "claim_id": "claim-005",
+      "counter_lineages": [],
+      "counter_origin_clusters": [],
+      "counter_source_ids": [],
+      "counterevidence_note": "未发现下一代已获得日常经营职位的证据；公开材料支持“制度化分权”而不是简单父传女。",
+      "declared_status": "credible",
+      "has_conflict": false,
+      "importance": "critical",
+      "independent_counter_count": 0,
+      "independent_support_count": 2,
+      "lineage_conflicts": [],
+      "missing_source_ids": [],
+      "quoted_support_count": 2,
+      "strong_support_lineage_count": 2,
+      "support_lineages": [
+        [
+          "src-006"
+        ],
+        [
+          "src-007"
+        ]
+      ],
+      "support_origin_clusters": [
+        "exchange-voting-2022",
+        "industry-watch-2022"
+      ],
+      "support_source_ids": [
+        "src-006",
+        "src-007"
+      ],
+      "unclassified_source_ids": [],
+      "warnings": []
+    }
+  ],
+  "source_clusters": {
+    "exchange-restructuring-2017": {
+      "id": "exchange-restructuring-2017",
+      "roles": [
+        "primary"
+      ],
+      "source_ids": [
+        "src-005"
+      ]
+    },
+    "exchange-voting-2022": {
+      "id": "exchange-voting-2022",
+      "roles": [
+        "primary"
+      ],
+      "source_ids": [
+        "src-006"
+      ]
+    },
+    "industry-watch-2022": {
+      "id": "industry-watch-2022",
+      "roles": [
+        "independent"
+      ],
+      "source_ids": [
+        "src-007"
+      ]
+    },
+    "lin-interview-2009": {
+      "id": "lin-interview-2009",
+      "roles": [
+        "self_report"
+      ],
+      "source_ids": [
+        "src-002"
+      ]
+    },
+    "north-finance-2003": {
+      "id": "north-finance-2003",
+      "roles": [
+        "independent"
+      ],
+      "source_ids": [
+        "src-004"
+      ]
+    },
+    "park-annual-2003": {
+      "id": "park-annual-2003",
+      "roles": [
+        "primary"
+      ],
+      "source_ids": [
+        "src-003"
+      ]
+    },
+    "registry-nanpu": {
+      "id": "registry-nanpu",
+      "roles": [
+        "primary"
+      ],
+      "source_ids": [
+        "src-001"
+      ]
+    }
+  },
+  "stop_gate": {
+    "blockers": [],
+    "completed_rounds": [
+      "A_support_chain",
+      "B_counterevidence",
+      "C_causal_attack"
+    ],
+    "ready": true,
+    "round_completions": [
+      {
+        "completed_at": "2026-08-31T10:00:00+08:00",
+        "queries_checked": [
+          "query-01-01",
+          "query-01-02",
+          "query-01-03",
+          "query-01-04",
+          "query-01-05",
+          "query-01-06",
+          "query-01-07"
+        ],
+        "receipt_ids": [],
+        "round": "A_support_chain"
+      },
+      {
+        "completed_at": "2026-08-31T11:00:00+08:00",
+        "queries_checked": [
+          "query-02-01",
+          "query-02-02",
+          "query-02-03",
+          "query-02-04",
+          "query-02-05",
+          "query-02-06",
+          "query-02-07"
+        ],
+        "receipt_ids": [],
+        "round": "B_counterevidence"
+      },
+      {
+        "completed_at": "2026-08-31T12:00:00+08:00",
+        "queries_checked": [
+          "query-03-01",
+          "query-03-02",
+          "query-03-03",
+          "query-03-04",
+          "query-03-05",
+          "query-03-06",
+          "query-03-07"
+        ],
+        "receipt_ids": [],
+        "round": "C_causal_attack"
+      }
+    ],
+    "warnings": []
+  }
+}

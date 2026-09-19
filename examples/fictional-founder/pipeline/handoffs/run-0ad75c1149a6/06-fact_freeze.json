@@ -1,0 +1,43 @@
+{
+  "run_id": "run-0ad75c1149a6",
+  "case_id": "fictional-founder",
+  "stage": "fact_freeze",
+  "producer": "leader-agent",
+  "consumer": "leader-agent",
+  "status": "ready",
+  "inputs": [
+    {
+      "kind": "verification-report",
+      "path": "research/verification-report.json",
+      "sha256": "0d12900029f035a7d68c4560201e2a507e43e6f03006921d4cb400b0d1aa3f79"
+    },
+    {
+      "kind": "analysis-view",
+      "path": "analysis/view.json",
+      "sha256": "86c273946c7ddd745d75ce336e2b7ec4210fe6f89c3ec3e86b5d05440e0c3aa7"
+    }
+  ],
+  "outputs": [
+    {
+      "kind": "case",
+      "path": "case.json",
+      "sha256": "7a7a2bfbce082cc901d636478db55ef700367153c1008b939e838681dd91a99f"
+    }
+  ],
+  "gates": [
+    {
+      "name": "strict-case-validation",
+      "passed": true,
+      "detail": "0 errors"
+    },
+    {
+      "name": "fact-freeze-present",
+      "passed": true,
+      "detail": "2026-08-31T12:00:00+08:00"
+    }
+  ],
+  "unresolved": [],
+  "notes": [],
+  "created_at": "2026-09-19T09:09:13.918966+00:00",
+  "schema_version": "xray-handoff/1"
+}

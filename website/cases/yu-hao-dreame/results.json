@@ -1,0 +1,1495 @@
+{
+  "schema_version": "public-research/1",
+  "kind": "人物",
+  "data": {
+    "subject": {
+      "name": "俞浩",
+      "anchor": "追觅科技创始人、CEO；嘉美包装实际控制人 · 1987—2026",
+      "lifespan": "1987—（出生年份与籍贯主要来自本人公开访谈）",
+      "known_for": "以高速数字马达切入智能清洁家电，借小米生态完成产品化，再以追觅品牌全球扩张；2025—2026年推进多业务孵化与上市公司控制权交易后又战略收缩",
+      "summary": "公开证据支持一条由工程社群、核心部件、生态链渠道和资本共同塑造的创业轨迹。俞浩把早期软件创业失败转化为硬件方向选择，以高速数字马达作为能力楔子，在小米生态中获得产品、制造和销售机会，再把追觅推向自有品牌与海外高端市场。2025年起的无边界扩张和200多个BU把增长叙事推至极端，2026年又收缩到四大赛道。公司仍在经营并取得市场进展，因此“落寞”只能写成声誉、组织与资本模式遭遇压力测试，而不是已经失败。"
+    },
+    "report": {
+      "title": "俞浩：把边界推到极限之后",
+      "eyebrow": "追觅科技创始人 / 商业生平调查初稿",
+      "dek": "他从清华工程社群和一次软件创业失败出发，用高速马达切入小米生态，再把自有品牌推向全球；真正需要解释的不是某个“世界第一”口号，而是技术、渠道、资本和组织边界如何先后放大了他。",
+      "thesis": "现有证据最支持的解释是：俞浩的崛起不是单一发明或个人天才的结果，而是核心部件研发、工程团队、中国供应链、小米生态的制造销售通道、2020—2021年的资本窗口和欧洲市场增长共同作用。2025年的无边界BU模式试图把这一套复制到更多行业，2026年的收缩则显示原模型尚未证明可以无限外推。其公开公益开始形成项目和登记主体，但个人资产规模、所有权结构和向下一代的法律传承均无充分公开证据。",
+      "as_of": "2026-08-31"
+    },
+    "fact_freeze": {
+      "status": "draft",
+      "notes": "早期技术优先权、2025财务口径、2026收缩因果、公益到账与跨代传承仍未闭合；禁止把未冻结事实送入MiroFish反事实模拟。"
+    },
+    "chapters": [
+      {
+        "id": "origins",
+        "label": "起家",
+        "years": "1987–2014",
+        "title": "工程社群与第一次创业失败",
+        "summary": "本人称出身南通普通家庭，经学科竞赛进入清华航天航空学院；在校组织天空工场并尝试无人机。2011年的协作软件Colorwork没有找到商业化路径，促使他转向更擅长、也更依赖中国制造能力的硬件。"
+      },
+      {
+        "id": "ascent",
+        "label": "登顶",
+        "years": "2015–2023",
+        "title": "用马达进入生态，再从生态走向品牌",
+        "summary": "团队以外部研发项目和小规模硬件收入支撑高速数字马达研发，2017年前后进入小米生态，2018年后推出产品并同时经营米家合作与追觅自有品牌。2020、2021年融资和海外清洁需求放大了研发、渠道与全球化。"
+      },
+      {
+        "id": "turning-point",
+        "label": "转折",
+        "years": "2024–2026",
+        "title": "从高端全球化到无边界扩张",
+        "summary": "2025年追觅在全球家用清洁机器人出货量排名第三、欧洲增长强劲；同年起业务被拆成200多个BU，并延伸至汽车、手机、食品饮料等。嘉美包装控制权交易提供公开资本动作，但公告明确它与追觅业务独立、36个月内不注入资产。2026年公司又将业务收回四大赛道。"
+      },
+      {
+        "id": "legacy",
+        "label": "财富 / 传承",
+        "years": "2025–2026",
+        "title": "尚未交棒：公益承诺正在转化，家族传承仍是空白",
+        "summary": "俞浩仍处于经营一线，没有可核验的家族接班或信托安排。公开材料能确认清华专项基金项目、2026年南通教育基金会登记和若干捐赠活动，也同时显示早期“亿元基金会”口径与法律登记、项目执行之间存在时间差。"
+      }
+    ],
+    "events": [
+      {
+        "id": "event-001",
+        "chapter_id": "origins",
+        "date": "1987",
+        "date_label": "1987",
+        "title": "出生于江苏南通",
+        "summary": "本人称家庭经济困难，并把早期竞争经历与风险偏好联系起来。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-004"
+        ]
+      },
+      {
+        "id": "event-002",
+        "chapter_id": "origins",
+        "date": "2007–2009",
+        "date_label": "2007–2009",
+        "title": "清华工程社群与飞行器实践",
+        "summary": "清华机构与人物材料确认航天教育和天空工场；所谓全球首个三旋翼仍是未独立验证的技术优先权说法。",
+        "epistemic_status": "dispute",
+        "source_ids": [
+          "src-003",
+          "src-021"
+        ]
+      },
+      {
+        "id": "event-003",
+        "chapter_id": "origins",
+        "date": "2011",
+        "date_label": "2011",
+        "title": "Colorwork未能商业化",
+        "summary": "俞浩把用户愿意使用但不愿付费解释为第一次创业失败，并据此转向硬件。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-004"
+        ]
+      },
+      {
+        "id": "event-004",
+        "chapter_id": "ascent",
+        "date": "2015",
+        "date_label": "2015",
+        "title": "把资源压向高速数字马达",
+        "summary": "团队以外部研发和小规模硬件项目维持现金流，持续投入核心部件；技术指标主要仍为公司自报。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-004",
+          "src-015"
+        ]
+      },
+      {
+        "id": "event-005",
+        "chapter_id": "ascent",
+        "date": "2017–2018",
+        "date_label": "2017–2018",
+        "title": "苏州公司成立并进入小米生态",
+        "summary": "苏州实体2017年成立，2017年底加入小米生态，2018年首款产品投入市场。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-002",
+          "src-005",
+          "src-004"
+        ]
+      },
+      {
+        "id": "event-006",
+        "chapter_id": "ascent",
+        "date": "2020-08",
+        "date_label": "2020",
+        "title": "近亿元B+轮融资",
+        "summary": "IDG领投，小米与顺为等追投，资金用于研发、渠道、品牌和品类。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-005"
+        ]
+      },
+      {
+        "id": "event-007",
+        "chapter_id": "ascent",
+        "date": "2021-10",
+        "date_label": "2021",
+        "title": "36亿元C轮融资",
+        "summary": "大额融资放大人才、研发和全球渠道投入，也提高了对持续增长的预期。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-006"
+        ]
+      },
+      {
+        "id": "event-008",
+        "chapter_id": "ascent",
+        "date": "2023-05",
+        "date_label": "2023",
+        "title": "与戴森一揽子解决20余起全球知识产权纠纷",
+        "summary": "最高法促成和解并履行；事件说明全球竞争进入专利密集区，但不能据此判定任一方全面胜诉。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-009"
+        ]
+      },
+      {
+        "id": "event-009",
+        "chapter_id": "turning-point",
+        "date": "2025",
+        "date_label": "2025",
+        "title": "全球清洁机器人第三与无边界扩张并行",
+        "summary": "IDC口径显示追觅全球出货第三、欧洲增长突出；公司同时向汽车、手机、大家电和更多业务扩张。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-007",
+          "src-008",
+          "src-012",
+          "src-020"
+        ]
+      },
+      {
+        "id": "event-010",
+        "chapter_id": "turning-point",
+        "date": "2025-12–2026-06",
+        "date_label": "2025–2026",
+        "title": "取得嘉美包装控制权",
+        "summary": "俞浩控制的平台通过协议转让与要约收购取得45.01%股份；部分资金使用并购贷款和股份质押，上市公司明确不承载追觅资产注入。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-010",
+          "src-011",
+          "src-022"
+        ]
+      },
+      {
+        "id": "event-011",
+        "chapter_id": "turning-point",
+        "date": "2026-06",
+        "date_label": "2026",
+        "title": "200多个BU收回四大赛道",
+        "summary": "在融资、国资基金监管和组织效率争议并存的背景下，公司确认整合、合并并转向四大核心业务。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-012",
+          "src-013",
+          "src-014"
+        ]
+      },
+      {
+        "id": "event-012",
+        "chapter_id": "legacy",
+        "date": "2025–2026",
+        "date_label": "2025–2026",
+        "title": "公益承诺逐步落到项目与登记主体",
+        "summary": "清华天空计划专项启动；南通教育基金会在2026年7月出现登记记录，但亿元承诺、法律实体与实际支出仍不能合并为同一事实。",
+        "epistemic_status": "dispute",
+        "source_ids": [
+          "src-016",
+          "src-017",
+          "src-018",
+          "src-019"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "decision-001",
+        "date": "2011",
+        "title": "从协作软件转向硬件",
+        "decision": "在Colorwork无法形成付费后，停止把移动互联网软件作为主航道，转向硬件创业。",
+        "outcome": "团队转向外部研发、代步车等硬件项目，并最终聚焦高速数字马达。",
+        "interpretation": "一次失败帮助他识别自己的比较优势，但硬件方向的成功还依赖团队与产业链窗口。",
+        "interpretation_status": "inference",
+        "falsifier": "若出现同期材料显示Colorwork已有可持续收入、转向硬件只是被动解散，则应重写为资源约束而非主动能力选择。",
+        "source_ids": [
+          "src-004"
+        ],
+        "known_at_time": [
+          "用户愿意使用但不愿付费",
+          "本人更擅长物理与工程问题",
+          "中国智能手机产业已培养一批硬件工程师和供应链能力"
+        ],
+        "alternatives": [
+          "继续迭代SaaS商业模式",
+          "做广告或免费增值",
+          "加入成熟互联网公司"
+        ],
+        "constraints": [
+          "软件付费习惯弱",
+          "融资与获客能力未知",
+          "硬件资金与制造风险更高"
+        ],
+        "alternative_explanations": [
+          "当时中国移动互联网竞争已迅速升温，进入硬件也可能是赛道规避",
+          "Colorwork失败原因可能是产品和分发，而非软件天然不适合"
+        ]
+      },
+      {
+        "id": "decision-002",
+        "date": "2015–2017",
+        "title": "先攻高速数字马达，而不是先做整机品牌",
+        "decision": "把研发重点放在吸尘器等产品的核心部件高速数字马达。",
+        "outcome": "马达成为进入小米生态和清洁家电产品化的技术楔子。",
+        "interpretation": "核心部件给团队提供了可向多个产品复用的能力，但‘打破垄断’与世界纪录仍需独立技术证据。",
+        "interpretation_status": "inference",
+        "falsifier": "若供应商、专利和BOM显示关键马达长期依赖外购，应降低自研马达在崛起中的解释权重。",
+        "source_ids": [
+          "src-003",
+          "src-004",
+          "src-015"
+        ],
+        "known_at_time": [
+          "国际品牌控制高性能马达与高端产品心智",
+          "团队已有飞行器、电机与控制经验",
+          "整机可借中国供应链更快迭代"
+        ],
+        "alternatives": [
+          "直接做低价整机",
+          "继续承接外部研发项目",
+          "做无人机或代步车"
+        ],
+        "constraints": [
+          "马达研发周期长",
+          "现金流有限",
+          "技术指标与量产良率都需跨越"
+        ],
+        "alternative_explanations": [
+          "真正决定产品成功的可能是小米渠道、供应链和价格",
+          "马达能力可能是团队整体而非创始人个人"
+        ]
+      },
+      {
+        "id": "decision-003",
+        "date": "2017",
+        "title": "接受小米生态的资本与产品机会",
+        "decision": "以较低早期估值换取小米与顺为投资，并加入小米生态。",
+        "outcome": "2018年起产品投入市场，并逐步形成米家合作与追觅自有品牌双线。",
+        "interpretation": "用股权和部分自主性换取从技术到商品的加速器，是最关键的商业化转折。",
+        "interpretation_status": "inference",
+        "falsifier": "若投资协议显示小米并未提供实质渠道或制造支持，应降低生态链的因果权重。",
+        "source_ids": [
+          "src-004",
+          "src-005"
+        ],
+        "known_at_time": [
+          "团队已有马达样机但品牌和量产渠道弱",
+          "小米能提供产品定义、制造、销售与生态信用",
+          "追觅早期收入规模有限"
+        ],
+        "alternatives": [
+          "保持完全独立品牌",
+          "寻找纯财务投资者",
+          "为传统家电厂商供货"
+        ],
+        "constraints": [
+          "生态链议价与品牌依赖",
+          "米家和自有品牌可能冲突",
+          "早期融资材料不公开"
+        ],
+        "alternative_explanations": [
+          "产品最终增长可能主要来自清洁需求上升",
+          "估值谈判细节只来自俞浩本人"
+        ]
+      },
+      {
+        "id": "decision-004",
+        "date": "2019–2021",
+        "title": "从生态链代工走向自有高端品牌与海外",
+        "decision": "继续与米家合作的同时发展追觅品牌，并选择提高价格与产品规格而非低价竞争。",
+        "outcome": "追觅自有品牌海外增长，并在2025年进入全球家用清洁机器人出货前三。",
+        "interpretation": "高端化与全球化扩大了毛利和品牌空间，但不能把行业上升和渠道投入全部归功于定价勇气。",
+        "interpretation_status": "inference",
+        "falsifier": "若分地区财务显示海外高端产品长期亏损、销量主要靠补贴，应重写高端化的结果。",
+        "source_ids": [
+          "src-004",
+          "src-005",
+          "src-007",
+          "src-008"
+        ],
+        "known_at_time": [
+          "小米渠道能提供销量但限制品牌天花板",
+          "欧洲市场接受高端清洁产品",
+          "疫情期间居家清洁需求上升"
+        ],
+        "alternatives": [
+          "长期只做米家供应商",
+          "专注国内性价比",
+          "只做核心部件供应商"
+        ],
+        "constraints": [
+          "渠道建设和售后成本",
+          "与戴森、石头、科沃斯等竞争",
+          "知识产权纠纷风险"
+        ],
+        "alternative_explanations": [
+          "欧洲增长可能主要来自经销商、促销或中国供应链成本优势",
+          "竞争对手产品周期也影响排名"
+        ]
+      },
+      {
+        "id": "decision-005",
+        "date": "2021",
+        "title": "接受36亿元C轮，把增长预期前置",
+        "decision": "引入多家大型投资机构，以大额融资继续扩充研发人才和全球业务。",
+        "outcome": "资本能力显著提升，之后多年扩品类和全球渠道；融资后的回报与稀释仍不透明。",
+        "interpretation": "融资不仅购买资源，也把未来增长承诺提前写进组织。",
+        "interpretation_status": "inference",
+        "falsifier": "若股东或审计材料显示大部分资金未进入公司，应降低C轮对扩张的因果作用。",
+        "source_ids": [
+          "src-006"
+        ],
+        "known_at_time": [
+          "清洁家电市场增长",
+          "自有品牌和海外销售开始放量",
+          "行业资本关注度高"
+        ],
+        "alternatives": [
+          "依靠经营现金流",
+          "更小规模分期融资",
+          "更早寻求上市"
+        ],
+        "constraints": [
+          "高估值带来增长压力",
+          "组织和渠道需要同步扩张",
+          "私营公司信息披露有限"
+        ],
+        "alternative_explanations": [
+          "融资可能主要是老股转让或储备，未必直接驱动扩张",
+          "公司增长也可能足以自我融资"
+        ]
+      },
+      {
+        "id": "decision-006",
+        "date": "2025",
+        "title": "用独立BU复制创业模型",
+        "decision": "将业务扩展到200多个相对独立、最终需外部融资和自负盈亏的BU。",
+        "outcome": "业务边界迅速扩大，但2026年多个BU裁撤或合并并收回四大赛道。",
+        "interpretation": "俞浩把早期创业的‘小团队+资本+供应链’当作可复制公式，组织收缩说明复制边界尚未被证明。",
+        "interpretation_status": "inference",
+        "falsifier": "若完整BU经营数据证明大多数单元已盈利、调整只是法律合并，应弱化‘扩张失控’解释。",
+        "source_ids": [
+          "src-004",
+          "src-012",
+          "src-013"
+        ],
+        "known_at_time": [
+          "清洁主业增长和利润被公司视为成熟",
+          "团队认为算法、供应链和品牌能力可跨品类复用",
+          "地方产业基金与孵化式CVC提供外部资本"
+        ],
+        "alternatives": [
+          "围绕清洁垂直深耕",
+          "只孵化少数相邻品类",
+          "通过并购成熟公司扩张"
+        ],
+        "constraints": [
+          "管理跨度",
+          "资金需求",
+          "BU数据与法人治理",
+          "地方基金返投和合规要求"
+        ],
+        "alternative_explanations": [
+          "BU扩张也可能是人才激励或品牌试验，不等同于全部重资产落地",
+          "2026收缩可能是主动优化而非资金压力"
+        ]
+      },
+      {
+        "id": "decision-007",
+        "date": "2025–2026",
+        "title": "通过控制平台收购嘉美包装",
+        "decision": "以协议转让加主动要约取得A股上市公司控制权，并以个人保证、并购贷款和股份质押支持交易。",
+        "outcome": "俞浩成为嘉美包装实际控制人，平台持股45.01%；追觅资产并未注入，嘉美股价大幅波动。",
+        "interpretation": "这是财富与控制结构的重要变化，但公开文件不支持‘追觅借壳’或已实现个人财富的说法。",
+        "interpretation_status": "fact",
+        "falsifier": "若未来公告改变36个月承诺或发生资产注入，应重新评估交易目的。",
+        "source_ids": [
+          "src-010",
+          "src-011",
+          "src-022"
+        ],
+        "known_at_time": [
+          "嘉美包装主营传统食品饮料包装",
+          "上市公司具备公开资本市场平台",
+          "交易后可保持上市地位"
+        ],
+        "alternatives": [
+          "推动追觅独立IPO",
+          "不进入公开资本市场",
+          "收购非上市制造资产"
+        ],
+        "constraints": [
+          "22亿元级资金",
+          "并购贷款与质押",
+          "上市公司监管和少数股东",
+          "36个月不注入资产承诺"
+        ],
+        "alternative_explanations": [
+          "收购目的可能是长期包装业务治理而非追觅融资平台",
+          "股价上涨产生的是账面浮盈且由平台持有"
+        ]
+      },
+      {
+        "id": "decision-008",
+        "date": "2026-06",
+        "title": "把无边界扩张收回四大赛道",
+        "decision": "合并、整合或取消部分BU，将汽车与芯片等改为技术储备，聚焦智能家庭、户外庭院、智能出行和具身智能。",
+        "outcome": "组织进入裁撤、合并与战略聚焦期；长期效果尚未显现。",
+        "interpretation": "这既可能是风险控制，也可能是外部监管、资金与内部治理共同迫使的回调；证据不足以判定单一原因。",
+        "interpretation_status": "inference",
+        "falsifier": "若未来披露证明四大板块内业务和人数继续高速扩张且资金充足，应把‘急刹车’改写为组织重组。",
+        "source_ids": [
+          "src-012",
+          "src-013",
+          "src-014"
+        ],
+        "known_at_time": [
+          "多个BU需外部融资",
+          "政府投资基金监管收紧",
+          "外界质疑组织与资本边界",
+          "清洁主业仍有全球增长"
+        ],
+        "alternatives": [
+          "继续全线扩张",
+          "完全回到清洁单一品类",
+          "出售或关闭孵化平台"
+        ],
+        "constraints": [
+          "员工与合同安置",
+          "品牌声誉",
+          "已投入项目沉没成本",
+          "融资与地方合作"
+        ],
+        "alternative_explanations": [
+          "公司主动做年度末位优化",
+          "媒体放大了尚未落地的BU数量",
+          "监管政策与追觅并无直接执法关系"
+        ]
+      }
+    ],
+    "contexts": [
+      {
+        "id": "context-001",
+        "period": "2007–2015",
+        "title": "清华工程社群与中国硬件供应链同时成熟",
+        "type": "技术与人才",
+        "summary": "高校工程社群提供早期人才与试验环境；智能手机产业扩张又培养电机、电子、结构和制造人才，使小团队有机会做复杂消费硬件。",
+        "source_ids": [
+          "src-004",
+          "src-021"
+        ]
+      },
+      {
+        "id": "context-002",
+        "period": "2017–2020",
+        "title": "小米生态把技术团队接到产品、制造和渠道",
+        "type": "平台生态",
+        "summary": "生态链投资和米家合作降低了新公司从样机到规模商品的门槛，同时也产生品牌依赖和定价约束。",
+        "source_ids": [
+          "src-004",
+          "src-005"
+        ]
+      },
+      {
+        "id": "context-003",
+        "period": "2020–2021",
+        "title": "居家清洁需求与消费硬件资本窗口",
+        "type": "市场与资本",
+        "summary": "疫情阶段清洁家电需求增长，投资机构愿意用大额资金押注研发、渠道和全球化，追觅的B+与C轮发生在这一窗口。",
+        "source_ids": [
+          "src-005",
+          "src-006"
+        ]
+      },
+      {
+        "id": "context-004",
+        "period": "2022–2025",
+        "title": "中国清洁机器人从代工与性价比走向全球高端竞争",
+        "type": "全球化",
+        "summary": "IDC显示中国品牌主导多个清洁机器人细分赛道，欧洲与中东欧增长快；导航、供应链和产品迭代成为共同产业能力。",
+        "source_ids": [
+          "src-007",
+          "src-008"
+        ]
+      },
+      {
+        "id": "context-005",
+        "period": "2019–2023",
+        "title": "全球化也把知识产权成本推到台前",
+        "type": "法律竞争",
+        "summary": "追觅与戴森在中国和欧洲形成20余起专利相关争议，最终一揽子和解，说明高端市场进入专利与诉讼密集区。",
+        "source_ids": [
+          "src-009"
+        ]
+      },
+      {
+        "id": "context-006",
+        "period": "2025–2026",
+        "title": "产业基金支持硬科技，同时监管强调返投、责任与穿透",
+        "type": "政策与资本",
+        "summary": "追觅的孵化和地方产业基金模式发生在政府资金支持科技创新的环境中；2026年国务院文件又强化政府基金责任、同类基金整合和穿透监管。",
+        "source_ids": [
+          "src-012",
+          "src-014"
+        ]
+      },
+      {
+        "id": "context-007",
+        "period": "2026",
+        "title": "创始人个人传播成为组织资产也成为风险",
+        "type": "舆论与治理",
+        "summary": "高频社交媒体和极端愿景扩大了追觅的注意力，也使公司业绩、BU结构、资本模式和内部管理接受更集中审视。",
+        "source_ids": [
+          "src-012",
+          "src-020"
+        ]
+      }
+    ],
+    "relationships": {
+      "nodes": [
+        {
+          "id": "person-yuhao",
+          "label": "俞浩",
+          "type": "person",
+          "description": "追觅创始人、CEO；嘉美包装实际控制人"
+        },
+        {
+          "id": "org-sky",
+          "label": "天空工场",
+          "type": "community",
+          "description": "清华时期工程创新社群，后来被公司叙事视为追觅前身"
+        },
+        {
+          "id": "org-dreame",
+          "label": "追觅科技",
+          "type": "company",
+          "description": "智能清洁与消费硬件公司"
+        },
+        {
+          "id": "org-xiaomi",
+          "label": "小米集团 / 小米生态链",
+          "type": "company",
+          "description": "早期投资者、生态与产品渠道"
+        },
+        {
+          "id": "org-shunwei",
+          "label": "顺为资本",
+          "type": "investor",
+          "description": "小米生态相关早期与后续投资方"
+        },
+        {
+          "id": "org-idg",
+          "label": "IDG资本",
+          "type": "investor",
+          "description": "2020年B+轮领投、2021年继续投资"
+        },
+        {
+          "id": "org-dyson",
+          "label": "戴森",
+          "type": "company",
+          "description": "高端清洁竞争者与知识产权纠纷对手方"
+        },
+        {
+          "id": "org-jiamei",
+          "label": "嘉美包装",
+          "type": "listed_company",
+          "description": "2026年由俞浩控制平台取得控制权的A股上市公司"
+        },
+        {
+          "id": "org-zhuye",
+          "label": "逐越鸿智",
+          "type": "holding_vehicle",
+          "description": "俞浩控制、用于收购嘉美包装的有限合伙平台"
+        },
+        {
+          "id": "org-tsinghua-foundation",
+          "label": "清华大学教育基金会天空计划基金",
+          "type": "foundation_project",
+          "description": "俞浩捐赠设立的专项基金项目"
+        },
+        {
+          "id": "org-nantong-foundation",
+          "label": "南通市俞浩教育基金会",
+          "type": "foundation",
+          "description": "聚合登记显示2026年7月成立、原始基金200万元"
+        },
+        {
+          "id": "market-global",
+          "label": "全球智能清洁市场",
+          "type": "market",
+          "description": "追觅增长与竞争发生的市场环境"
+        }
+      ],
+      "edges": [
+        {
+          "id": "edge-001",
+          "source": "person-yuhao",
+          "target": "org-sky",
+          "label": "在校组织",
+          "period": "约2009起",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-003",
+            "src-021"
+          ]
+        },
+        {
+          "id": "edge-002",
+          "source": "person-yuhao",
+          "target": "org-dreame",
+          "label": "创始人 / CEO",
+          "period": "2017–2026",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-001",
+            "src-015"
+          ]
+        },
+        {
+          "id": "edge-003",
+          "source": "org-xiaomi",
+          "target": "org-dreame",
+          "label": "投资、生态链与产品渠道",
+          "period": "2017–2026",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-004",
+            "src-005",
+            "src-006"
+          ]
+        },
+        {
+          "id": "edge-004",
+          "source": "org-shunwei",
+          "target": "org-dreame",
+          "label": "早期与后续投资",
+          "period": "2017–2021",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-004",
+            "src-005",
+            "src-006"
+          ]
+        },
+        {
+          "id": "edge-005",
+          "source": "org-idg",
+          "target": "org-dreame",
+          "label": "B+领投与C轮追加",
+          "period": "2020–2021",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-005",
+            "src-006"
+          ]
+        },
+        {
+          "id": "edge-006",
+          "source": "org-dreame",
+          "target": "org-dyson",
+          "label": "市场竞争与知识产权纠纷后和解",
+          "period": "2019–2023",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-009"
+          ]
+        },
+        {
+          "id": "edge-007",
+          "source": "person-yuhao",
+          "target": "org-zhuye",
+          "label": "实际控制",
+          "period": "2025–2026",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-010",
+            "src-011"
+          ]
+        },
+        {
+          "id": "edge-008",
+          "source": "org-zhuye",
+          "target": "org-jiamei",
+          "label": "持股45.01%并控股",
+          "period": "2026-06起",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-010",
+            "src-022"
+          ]
+        },
+        {
+          "id": "edge-009",
+          "source": "person-yuhao",
+          "target": "org-tsinghua-foundation",
+          "label": "捐赠设立",
+          "period": "2025–2026",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-016",
+            "src-018"
+          ]
+        },
+        {
+          "id": "edge-010",
+          "source": "person-yuhao",
+          "target": "org-nantong-foundation",
+          "label": "冠名教育基金会",
+          "period": "2026",
+          "epistemic_status": "inference",
+          "source_ids": [
+            "src-019"
+          ]
+        },
+        {
+          "id": "edge-011",
+          "source": "org-dreame",
+          "target": "market-global",
+          "label": "2025年出货第三、欧洲快速增长",
+          "period": "2025",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-007",
+            "src-008"
+          ]
+        }
+      ]
+    },
+    "wealth": {
+      "summary": "公开证据能追踪的是能力、公司股权与控制权、融资和公益项目，不能给出俞浩净财富。嘉美包装账面市值与逐越鸿智资产不等于已实现个人现金；追觅私营公司股权结构和估值也不公开。",
+      "stages": [
+        {
+          "id": "wealth-001",
+          "period": "2007–2014",
+          "title": "工程人力资本与社群",
+          "summary": "清华教育、天空工场和飞行器实践形成技术网络；早年财富数字没有公开证据。",
+          "mechanism": "教育 / 工程能力 / 人才网络",
+          "source_ids": [
+            "src-003",
+            "src-021"
+          ]
+        },
+        {
+          "id": "wealth-002",
+          "period": "2015–2019",
+          "title": "马达与清洁产品能力",
+          "summary": "团队把外部项目收入、核心部件研发和小米生态机会转为产品与品牌资产。",
+          "mechanism": "研发IP / 团队 / 生态渠道",
+          "source_ids": [
+            "src-004",
+            "src-005",
+            "src-015"
+          ]
+        },
+        {
+          "id": "wealth-003",
+          "period": "2020–2025",
+          "title": "追觅股权与全球品牌",
+          "summary": "B+、C轮和海外增长提升公司资源与可能的股权价值，但私营公司估值、持股比例与可变现性不公开。",
+          "mechanism": "创始人股权 / 风险资本 / 品牌与渠道",
+          "source_ids": [
+            "src-005",
+            "src-006",
+            "src-007",
+            "src-008"
+          ]
+        },
+        {
+          "id": "wealth-004",
+          "period": "2025–2026",
+          "title": "上市公司控制权",
+          "summary": "逐越鸿智以约22亿元取得嘉美包装45.01%股份，部分使用并购贷款和质押；账面浮盈属于控制平台且随股价波动。",
+          "mechanism": "控股平台 / 并购贷款 / 股份质押",
+          "source_ids": [
+            "src-010",
+            "src-011",
+            "src-022"
+          ]
+        }
+      ],
+      "transfers": [
+        {
+          "id": "transfer-001",
+          "period": "2025–2026",
+          "title": "清华天空计划专项",
+          "summary": "专项基金已经设立并于2026年启动；2025年未开展公益活动，公开报告未给出到账额和支出。",
+          "source_ids": [
+            "src-016",
+            "src-018"
+          ]
+        },
+        {
+          "id": "transfer-002",
+          "period": "2025–2026",
+          "title": "亿元公益承诺与法律主体分开核验",
+          "summary": "亿元捐赠属于公开承诺；截至2026年4月记者未查到对应内地基金会登记，7月出现南通教育基金会登记聚合信息，原始基金200万元，二者不能自动等同。",
+          "source_ids": [
+            "src-017",
+            "src-019"
+          ]
+        },
+        {
+          "id": "transfer-003",
+          "period": "未公开",
+          "title": "向下一代的财产传承未知",
+          "summary": "未发现公开信托、遗嘱、股权交接、家族办公室或下一代受益安排；俞浩仍直接或间接控制主要公开资产平台。",
+          "source_ids": [
+            "src-010",
+            "src-011"
+          ]
+        }
+      ]
+    },
+    "claims": [
+      {
+        "id": "claim-001",
+        "text": "俞浩是追觅科技（苏州）有限公司的创始人、CEO，并曾在司法文书中列为法定代表人、董事长兼总经理。",
+        "importance": "critical",
+        "status": "verified",
+        "explanation": "公司官网与上海高院司法文书分别确认公开身份和法定职务。",
+        "counterevidence": "未发现截至2026-08-31的职务变更公告。",
+        "evidence": [
+          {
+            "source_id": "src-001"
+          },
+          {
+            "source_id": "src-015"
+          }
+        ]
+      },
+      {
+        "id": "claim-002",
+        "text": "俞浩1987年出生于江苏南通，并通过学科竞赛推荐进入清华大学。",
+        "importance": "supporting",
+        "status": "self_reported",
+        "explanation": "出生、家庭和升学细节主要来自其本人长篇采访，清华机构材料能旁证校友身份但不能证明所有早年细节。",
+        "counterevidence": "未取得户籍、招生或竞赛官方记录。",
+        "evidence": [
+          {
+            "source_id": "src-004"
+          },
+          {
+            "source_id": "src-021"
+          }
+        ]
+      },
+      {
+        "id": "claim-003",
+        "text": "俞浩就读清华大学航天航空学院，并在校内组织天空工场。",
+        "importance": "critical",
+        "status": "partial",
+        "explanation": "清华校友机构材料与新华人物资料均给出教育与社群经历，但两者采用的人物叙事可能来自同一公司/本人材料。",
+        "counterevidence": "天空工场的确切创办年份与组织连续性在不同材料中存在表述差异。",
+        "evidence": [
+          {
+            "source_id": "src-021"
+          },
+          {
+            "source_id": "src-003"
+          }
+        ]
+      },
+      {
+        "id": "claim-004",
+        "text": "俞浩在2007年开发四旋翼、2009年发明全球首个三旋翼无人机。",
+        "importance": "supporting",
+        "status": "self_reported",
+        "explanation": "新华与清华校友资料重复这一说法，但内容高度同源，未找到专利、论文或同期竞赛记录证明‘全球首个’。",
+        "counterevidence": "缺少可用于全球技术优先权比较的同期档案。",
+        "evidence": [
+          {
+            "source_id": "src-003"
+          }
+        ]
+      },
+      {
+        "id": "claim-005",
+        "text": "2011年的协作软件Colorwork是俞浩的第一次商业创业，但没有找到变现路径。",
+        "importance": "supporting",
+        "status": "self_reported",
+        "explanation": "该产品、用户反应和失败原因来自本人复盘，尚无同期公司、融资或产品档案。",
+        "counterevidence": "未找到独立材料确认用户数、公司主体或关闭时间。",
+        "evidence": [
+          {
+            "source_id": "src-004"
+          },
+          {
+            "source_id": "src-004"
+          }
+        ]
+      },
+      {
+        "id": "claim-006",
+        "text": "追觅的团队/项目可追溯到2015年的高速数字马达研发，但苏州追觅法律实体成立于2017年。",
+        "importance": "critical",
+        "status": "partial",
+        "explanation": "公司官网主动把2015定义为团队研发起点、2017定义为公司成立；聚合工商信息给出2017-12-18。",
+        "counterevidence": "2020年的36氪报道曾写‘成立于2015年’，说明媒体常把团队启动与公司成立混用。",
+        "evidence": [
+          {
+            "source_id": "src-015"
+          },
+          {
+            "source_id": "src-015"
+          },
+          {
+            "source_id": "src-002"
+          }
+        ]
+      },
+      {
+        "id": "claim-007",
+        "text": "追觅于2017年底进入小米生态链，并在2018年推出首款产品。",
+        "importance": "critical",
+        "status": "partial",
+        "explanation": "36氪同期融资报道和后来的本人访谈在时间点与生态关系上相互吻合，但只有一个独立强来源。",
+        "counterevidence": "具体签约日、首款产品口径和品牌归属仍可能因米家/追觅双线而不同。",
+        "evidence": [
+          {
+            "source_id": "src-005"
+          },
+          {
+            "source_id": "src-005"
+          },
+          {
+            "source_id": "src-004"
+          }
+        ]
+      },
+      {
+        "id": "claim-008",
+        "text": "小米与顺为早期各投100万美元并合计取得20%股权，俞浩为避免更高层审批主动把估值从1亿元降至7000万元。",
+        "importance": "supporting",
+        "status": "self_reported",
+        "explanation": "金额、比例和谈判动机只见于俞浩2026年口述。",
+        "counterevidence": "未找到当轮投资协议、股权表或小米公告；不应把该叙述写成已审计融资事实。",
+        "evidence": [
+          {
+            "source_id": "src-004"
+          },
+          {
+            "source_id": "src-004"
+          }
+        ]
+      },
+      {
+        "id": "claim-009",
+        "text": "2020年追觅完成近亿元B+轮融资，IDG领投，小米、顺为等追投。",
+        "importance": "critical",
+        "status": "partial",
+        "explanation": "36氪同期独家报道给出轮次、规模和投资方，后续融资数据库与报道一致，但未取得交割文件。",
+        "counterevidence": "交割文件与精确金额未公开。",
+        "evidence": [
+          {
+            "source_id": "src-005"
+          }
+        ]
+      },
+      {
+        "id": "claim-010",
+        "text": "2021年追觅宣布完成36亿元C轮融资，由华兴新经济基金、CPE源峰领投，多家机构与老股东跟投。",
+        "importance": "critical",
+        "status": "partial",
+        "explanation": "财新同期报道核对了融资规模和投资方，但公开材料仍是公司宣布的交易，未取得交割与到账文件。",
+        "counterevidence": "估值、股权稀释和资金实际到账节奏未公开。",
+        "evidence": [
+          {
+            "source_id": "src-006"
+          },
+          {
+            "source_id": "src-006"
+          }
+        ]
+      },
+      {
+        "id": "claim-011",
+        "text": "2025年追觅全球家用清洁机器人出货340万台、份额10.5%，位列第三，欧洲增长突出。",
+        "importance": "critical",
+        "status": "verified",
+        "explanation": "第一财经直接引用IDC的公司级数据，IDC原始页面确认全球规模、石头第一和追觅欧洲快速扩张。",
+        "counterevidence": "这不等于追觅在全部清洁家电、全部国家或收入口径上第三；2026年一季度排名可能变化。",
+        "evidence": [
+          {
+            "source_id": "src-008"
+          },
+          {
+            "source_id": "src-007"
+          }
+        ]
+      },
+      {
+        "id": "claim-012",
+        "text": "追觅2025年营收和利润存在互相冲突的公开口径。",
+        "importance": "critical",
+        "status": "contradicted",
+        "explanation": "调查报道记录俞浩年会称总营收超400亿元、按奖金口径反推净利润约55.5亿元；同文转述财新获得的对地方政府通报口径为成熟业务营收200多亿元、利润20多亿元。私营公司无公开审计报表可消除差异。",
+        "counterevidence": "两个口径可能覆盖范围不同，但公司未提供公开可审计的合并边界和调节表。",
+        "evidence": [
+          {
+            "source_id": "src-012"
+          },
+          {
+            "source_id": "src-012"
+          }
+        ]
+      },
+      {
+        "id": "claim-013",
+        "text": "2023年戴森与追觅就全球20余起知识产权纠纷达成一揽子和解并履行。",
+        "importance": "supporting",
+        "status": "verified",
+        "explanation": "最高人民法院英文官网明确介绍调解、协议和履行结果。",
+        "counterevidence": "和解不等于法院判定任一方全面胜诉或确认全部专利有效。",
+        "evidence": [
+          {
+            "source_id": "src-009"
+          },
+          {
+            "source_id": "src-009"
+          }
+        ]
+      },
+      {
+        "id": "claim-014",
+        "text": "俞浩通过逐越鸿智于2026年取得嘉美包装控制权；要约完成后平台持股45.01%。",
+        "importance": "critical",
+        "status": "verified",
+        "explanation": "巨潮公告确认2026年3月首批过户及实控人变更，第一财经根据6月公告确认要约清算后持股45.01%。",
+        "counterevidence": "嘉美包装明确与追觅业务独立、36个月内无资产注入计划，因此不能称追觅借壳上市。",
+        "evidence": [
+          {
+            "source_id": "src-010"
+          },
+          {
+            "source_id": "src-022"
+          }
+        ]
+      },
+      {
+        "id": "claim-015",
+        "text": "嘉美包装控制权交易总成本约22.82亿元，其中并购贷款预计不超过11.41亿元，俞浩提供连带责任保证。",
+        "importance": "critical",
+        "status": "verified",
+        "explanation": "要约收购报告书披露资金来源、贷款上限、期限、担保和股份质押安排；总成本由协议转让与实际要约支付合计约22亿元至22.82亿元。",
+        "counterevidence": "交易主体是俞浩控制的平台，资金包含自有与自筹，不应全部视作俞浩个人现金支出。",
+        "evidence": [
+          {
+            "source_id": "src-011"
+          },
+          {
+            "source_id": "src-011"
+          }
+        ]
+      },
+      {
+        "id": "claim-016",
+        "text": "2025年至2026年上半年，追觅体系扩张到200多个BU；2026年中又收缩整合为四大核心赛道。",
+        "importance": "critical",
+        "status": "credible",
+        "explanation": "36氪调查采访多类内部与外部人士，财新现场采访确认四大业务收缩。",
+        "counterevidence": "BU总数、员工数和裁员比例来自匿名信源或公司内部口径，缺少经审计组织名册。",
+        "evidence": [
+          {
+            "source_id": "src-012"
+          },
+          {
+            "source_id": "src-013"
+          }
+        ]
+      },
+      {
+        "id": "claim-017",
+        "text": "追觅2026年的收缩由单一政策打击直接导致。",
+        "importance": "critical",
+        "status": "unverified",
+        "explanation": "国务院文件确实强化私募和政府投资基金监管，创投人士把这视为外部因素；但没有官方文件点名追觅，内部现金流、BU质量、融资目标和管理复杂度也可能共同作用。",
+        "counterevidence": "公司将调整表述为主动战略聚焦，且主营清洁业务仍保持市场增长。",
+        "evidence": [
+          {
+            "source_id": "src-014"
+          },
+          {
+            "source_id": "src-012"
+          }
+        ]
+      },
+      {
+        "id": "claim-018",
+        "text": "俞浩已将主要财富通过基金会或法律工具传给下一代。",
+        "importance": "critical",
+        "status": "unverified",
+        "explanation": "未找到公开信托、遗嘱、赠与、家族持股接班或下一代受益安排。现有材料只支持公益项目与基金会动作。",
+        "counterevidence": "俞浩仍在经营一线，嘉美包装与多个企业控制结构也由本人直接或间接控制。",
+        "evidence": [
+          {
+            "source_id": "src-010"
+          }
+        ]
+      },
+      {
+        "id": "claim-019",
+        "text": "俞浩捐赠设立的清华大学教育基金会天空计划基金真实存在，但2025年尚未开展公益活动。",
+        "importance": "supporting",
+        "status": "verified",
+        "explanation": "清华大学教育基金会年度报告同时确认项目来源、执行方和当年执行状态。",
+        "counterevidence": "2026年1月专项启动说明项目后来推进，但未公开披露捐赠到账额和支出。",
+        "evidence": [
+          {
+            "source_id": "src-016"
+          },
+          {
+            "source_id": "src-016"
+          }
+        ]
+      },
+      {
+        "id": "claim-020",
+        "text": "2025年‘捐赠一亿元成立个人慈善基金会’的公开口径等同于一亿元已经进入内地登记基金会并完成支出。",
+        "importance": "supporting",
+        "status": "contradicted",
+        "explanation": "公司与宣传材料使用亿元承诺，但《中国慈善家》2026年4月查证时未发现对应内地基金会登记；2026年7月出现的南通教育基金会聚合登记信息显示原始基金200万元，也不能与亿元承诺自动画等号。",
+        "counterevidence": "清华专项和多个公益活动可确认部分行动已发生，但没有完整捐赠到账与支出审计。",
+        "evidence": [
+          {
+            "source_id": "src-017"
+          },
+          {
+            "source_id": "src-019"
+          },
+          {
+            "source_id": "src-019"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-001",
+        "title": "（2023）沪民辖终18号民事裁定书",
+        "url": "https://www.hshfy.sh.cn/shfy/web/flws2pdf.jsp?pa=adGFoPaOoMjAyM6Opu6bD8c+91tUxOLrFJndzeGg9MSZ3c2xiPcPxysKyw7aoyukPdcssz",
+        "publisher": "上海市高级人民法院",
+        "published_at": "2023",
+        "accessed_at": "2026-08-31",
+        "type": "court",
+        "role": "primary",
+        "origin_cluster": "shanghai-high-court-2023",
+        "notes": "用于确认追觅苏州公司、俞浩法定代表人及董事长兼总经理身份；该裁定只处理管辖争议，不是侵权实体判决。"
+      },
+      {
+        "id": "src-002",
+        "title": "追觅科技（苏州）有限公司企业信息",
+        "url": "https://m.shuidi.cn/company-cc47cff4e93fc1c745e3985e333ff123.html",
+        "publisher": "水滴信用",
+        "published_at": "",
+        "accessed_at": "2026-08-31",
+        "type": "registry_aggregator",
+        "role": "discovery",
+        "origin_cluster": "dreame-registry-aggregator",
+        "notes": "聚合工商信息称苏州法律实体成立于2017-12-18；需国家企业信用信息公示系统进一步复核。"
+      },
+      {
+        "id": "src-003",
+        "title": "寻找全世界最难的科技问题",
+        "url": "https://www.xinhuanet.com/fortune/2023-05/06/c_1212174582.htm",
+        "publisher": "新华网",
+        "published_at": "2023-05-06",
+        "accessed_at": "2026-08-31",
+        "type": "profile",
+        "role": "self_report",
+        "origin_cluster": "xinhua-dreame-profile-2023",
+        "notes": "人物专访大量采用俞浩与公司口径；教育经历可作旁证，技术优先权、效率和产能不能据此独立确认。"
+      },
+      {
+        "id": "src-004",
+        "title": "对话追觅俞浩：极端、冒险与风险控制",
+        "url": "https://finance.sina.com.cn/roll/2026-05-19/doc-inhymcpk3325895.shtml",
+        "publisher": "《中国企业家》/ 新浪财经",
+        "published_at": "2026-05-19",
+        "accessed_at": "2026-08-31",
+        "type": "interview",
+        "role": "self_report",
+        "origin_cluster": "china-entrepreneur-yuhao-2026",
+        "notes": "长篇访谈包含童年、Colorwork、马达、小米生态和管理方式的第一人称叙述；记者对组织与资本模式的分析另按分析处理。"
+      },
+      {
+        "id": "src-005",
+        "title": "36氪首发：追觅科技完成近亿元B+轮融资",
+        "url": "https://www.36kr.com/p/860248419146112",
+        "publisher": "36氪",
+        "published_at": "2020-08-31",
+        "accessed_at": "2026-08-31",
+        "type": "news",
+        "role": "independent",
+        "origin_cluster": "36kr-bplus-2020",
+        "notes": "确认B+轮与投资方、2017年底加入小米生态、2018首款产品；销售和研发比例来自公司高管。"
+      },
+      {
+        "id": "src-006",
+        "title": "追觅科技C轮融资36亿元 上半年销售额近20亿元",
+        "url": "https://www.caixin.com/2021-10-21/101789905.html",
+        "publisher": "财新",
+        "published_at": "2021-10-21",
+        "accessed_at": "2026-08-31",
+        "type": "news",
+        "role": "independent",
+        "origin_cluster": "caixin-c-round-2021",
+        "notes": "确认36亿元C轮和投资方；公司员工与研发比例来自追觅提供材料。"
+      },
+      {
+        "id": "src-007",
+        "title": "Global Home Cleaning Robot Market 2025",
+        "url": "https://www.idc.com/resource-center/blog/global-home-cleaning-robot-market-2025/",
+        "publisher": "IDC",
+        "published_at": "2026-03-10",
+        "accessed_at": "2026-08-31",
+        "type": "market_research",
+        "role": "primary",
+        "origin_cluster": "idc-cleaning-robot-2025",
+        "notes": "原始行业研究页面确认2025年全球清洁机器人出货规模、石头领先与追觅在欧洲快速增长。"
+      },
+      {
+        "id": "src-008",
+        "title": "“2026年顶流CEO”，暂未拉动追觅市场份额增长",
+        "url": "https://finance.sina.com.cn/stock/stockzmt/2026-05-19/doc-inhyivuf7968120.shtml",
+        "publisher": "第一财经 / 新浪财经",
+        "published_at": "2026-05-19",
+        "accessed_at": "2026-08-31",
+        "type": "news",
+        "role": "independent",
+        "origin_cluster": "yicai-market-patent-2026",
+        "notes": "引用IDC称2025年追觅全球家用清洁机器人出货340万台、份额10.5%、第三；智慧芽专利数据也显示与石头、科沃斯仍有差距。"
+      },
+      {
+        "id": "src-009",
+        "title": "Top court facilitates package settlement of 20 plus global IP disputes",
+        "url": "https://english.court.gov.cn/2023-09/13/c_946049.htm",
+        "publisher": "中华人民共和国最高人民法院",
+        "published_at": "2023-09-13",
+        "accessed_at": "2026-08-31",
+        "type": "court_news",
+        "role": "primary",
+        "origin_cluster": "spc-dyson-dreame-settlement-2023",
+        "notes": "确认戴森与追觅就全球20余起知识产权纠纷一揽子和解且已履行；不能推出追觅被判侵权。"
+      },
+      {
+        "id": "src-010",
+        "title": "嘉美包装关于控股股东协议转让股份完成过户登记暨控制权发生变更的公告",
+        "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225055719.PDF",
+        "publisher": "嘉美包装 / 巨潮资讯网",
+        "published_at": "2026-03-31",
+        "accessed_at": "2026-08-31",
+        "type": "filing",
+        "role": "primary",
+        "origin_cluster": "jiamei-control-transfer-2026",
+        "notes": "确认2026-03-27首批股份过户、控股股东变更为逐越鸿智、实际控制人变更为俞浩。"
+      },
+      {
+        "id": "src-011",
+        "title": "嘉美包装要约收购报告书",
+        "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225228157.PDF",
+        "publisher": "嘉美包装 / 巨潮资讯网",
+        "published_at": "2026-04-29",
+        "accessed_at": "2026-08-31",
+        "type": "filing",
+        "role": "primary",
+        "origin_cluster": "jiamei-tender-offer-2026",
+        "notes": "确认要约价格、资金来源及不超过11.41亿元并购贷款、俞浩连带保证与部分股份质押安排。"
+      },
+      {
+        "id": "src-012",
+        "title": "追觅收缩的两个月",
+        "url": "https://36kr.com/p/3903882083419271",
+        "publisher": "36氪 / 镜相工作室",
+        "published_at": "2026-07-20",
+        "accessed_at": "2026-08-31",
+        "type": "investigation",
+        "role": "independent",
+        "origin_cluster": "mirror-dreame-contraction-2026",
+        "notes": "采访多名员工、前员工、HR、投资人和FA，记录200多个BU、裁撤合并、资金模式与业绩口径冲突；匿名信源需保留局限。"
+      },
+      {
+        "id": "src-013",
+        "title": "独家：追觅俞浩回应主营业务战略收缩",
+        "url": "https://companies.caixin.com/m/2026-06-24/102457130.html",
+        "publisher": "财新",
+        "published_at": "2026-06-24",
+        "accessed_at": "2026-08-31",
+        "type": "news",
+        "role": "independent",
+        "origin_cluster": "caixin-dreame-contraction-2026",
+        "notes": "现场采访确认收缩到智能家庭、户外庭院、智能出行、具身智能四大业务，车与芯片转为技术储备。"
+      },
+      {
+        "id": "src-014",
+        "title": "国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见",
+        "url": "https://gs.mof.gov.cn/zhengcefagui/202606/t20260609_3991384.htm",
+        "publisher": "国务院办公厅 / 财政部",
+        "published_at": "2026-06-09",
+        "accessed_at": "2026-08-31",
+        "type": "policy",
+        "role": "primary",
+        "origin_cluster": "state-council-private-fund-2026",
+        "notes": "用于说明2026年政府与国企投资基金监管环境收紧；该政策没有点名追觅，不能单独证明其收缩原因。"
+      },
+      {
+        "id": "src-015",
+        "title": "追觅科技关于我们",
+        "url": "https://www.dreame.tech/mobileAbout",
+        "publisher": "追觅科技",
+        "published_at": "",
+        "accessed_at": "2026-08-31",
+        "type": "company_profile",
+        "role": "self_report",
+        "origin_cluster": "dreame-official-about-2026",
+        "notes": "公司口径称2017年成立、2015年团队开始马达研发，并介绍俞浩与公益项目；公司自报专利、市场与公益数据不作独立验证。"
+      },
+      {
+        "id": "src-016",
+        "title": "清华大学教育基金会2025年度工作报告",
+        "url": "https://www.tuef.tsinghua.edu.cn/qinghuadaxuejiaoyujijinhui2025niandugongzuobaogao.pdf",
+        "publisher": "清华大学教育基金会",
+        "published_at": "2026",
+        "accessed_at": "2026-08-31",
+        "type": "foundation_report",
+        "role": "primary",
+        "origin_cluster": "tsinghua-foundation-report-2025",
+        "notes": "确认俞浩捐赠设立天空计划基金，同时明确该项目2025年未开展公益活动。"
+      },
+      {
+        "id": "src-017",
+        "title": "俞浩捐赠一个亿，是真公益还是做秀？",
+        "url": "https://finance.sina.cn/china/gncj/2026-04-03/detail-inhtepte0446688.d.html",
+        "publisher": "《中国慈善家》/ 新浪财经",
+        "published_at": "2026-04-03",
+        "accessed_at": "2026-08-31",
+        "type": "investigation",
+        "role": "independent",
+        "origin_cluster": "china-philanthropist-yuhao-2026",
+        "notes": "记者在2026年4月查证当时相关个人基金会名称未在内地民政部门登记，实际可查主体为2025年成立的香港公司；此结论有明确时间截面。"
+      },
+      {
+        "id": "src-018",
+        "title": "以创新公益赋能青年未来：天空计划-清华大学专项启动",
+        "url": "https://www.tuef.tsinghua.edu.cn/xwzx/147.htm",
+        "publisher": "清华大学教育基金会",
+        "published_at": "2026-01-27",
+        "accessed_at": "2026-08-31",
+        "type": "institutional_news",
+        "role": "primary",
+        "origin_cluster": "tsinghua-sky-plan-2026",
+        "notes": "确认清华专项正式启动与支持方向；未披露捐赠到账额。"
+      },
+      {
+        "id": "src-019",
+        "title": "南通市俞浩教育基金会信息",
+        "url": "https://www.shuididp.cn/yp-f53cc32d2ed8771afac0a4d16aa70301.html",
+        "publisher": "水滴公益",
+        "published_at": "",
+        "accessed_at": "2026-08-31",
+        "type": "registry_aggregator",
+        "role": "discovery",
+        "origin_cluster": "nantong-yuhao-foundation-registry",
+        "notes": "聚合信息称基金会2026-07-03成立、登记机关为南通市民政局、原始基金200万元；仍需民政官方登记页面复核。"
+      },
+      {
+        "id": "src-020",
+        "title": "CEO俞浩言论频频登上热搜，追觅快速扩张走向何方？",
+        "url": "https://www.chinanews.com.cn/cj/2026/04-21/10607832.shtml",
+        "publisher": "中国新闻网",
+        "published_at": "2026-04-21",
+        "accessed_at": "2026-08-31",
+        "type": "news",
+        "role": "independent",
+        "origin_cluster": "chinanews-yuhao-expansion-2026",
+        "notes": "记录2024后扩品类、2025造车宣布、2026多品类展出与创始人社交媒体争议。"
+      },
+      {
+        "id": "src-021",
+        "title": "清华校友通讯第98期人物材料",
+        "url": "https://www.tsinghua.edu.cn/newspdf/xiaoyoutongxun98qi.pdf",
+        "publisher": "清华大学校友总会",
+        "published_at": "2025",
+        "accessed_at": "2026-08-31",
+        "type": "institutional_profile",
+        "role": "self_report",
+        "origin_cluster": "tsinghua-alumni-dreame-profile",
+        "notes": "用于旁证清华航天教育背景和天空工场；技术世界第一、马达效率等仍采用公司/本人叙事。"
+      },
+      {
+        "id": "src-022",
+        "title": "嘉美包装市值蒸发190亿，俞浩持股平台完成收购后质押股份",
+        "url": "https://finance.sina.com.cn/roll/2026-06-09/doc-iniavfsn6430576.shtml",
+        "publisher": "第一财经 / 新浪财经",
+        "published_at": "2026-06-09",
+        "accessed_at": "2026-08-31",
+        "type": "news",
+        "role": "independent",
+        "origin_cluster": "yicai-jiamei-pledge-2026",
+        "notes": "确认要约清算完成后逐越鸿智持股45.01%，并将约一半持股质押给兴业银行；浮盈为按市价计算，不等于已实现个人财富。"
+      }
+    ],
+    "unresolved_questions": [
+      {
+        "id": "gap-001",
+        "question": "四旋翼、三旋翼与高速数字马达的技术优先权和个人贡献能否独立证明？",
+        "searched": "已查新华、清华校友材料、公司官网和人物访谈；未找到论文、专利、竞赛档案或同期技术记录。",
+        "next_query": "按俞浩、天空工场、具体飞行器名称检索CNIPA、Google Patents、清华论文库和2007–2010竞赛档案。",
+        "impact": "决定技术天才叙事能写成可核验发明，还是只能保留为本人/机构画像。"
+      },
+      {
+        "id": "gap-002",
+        "question": "小米与顺为早期100万美元投资、20%股权和7000万元估值是否准确？",
+        "searched": "已查36氪、财新、公司材料和本人访谈；只有本人给出完整数字。",
+        "next_query": "寻找小米集团关联交易披露、早期投资协议、股权变更历史或投资方合伙人同期访谈。",
+        "impact": "影响对俞浩谈判风格、早期稀释和小米关系强度的判断。"
+      },
+      {
+        "id": "gap-003",
+        "question": "追觅2025年合并营收、成熟业务营收、利润与现金流的统一口径是什么？",
+        "searched": "已比较年会口径、地方政府通报转述、媒体调查和公司新闻稿；未见审计报表。",
+        "next_query": "若未来IPO，优先核对招股书、审计报告、主要子公司合并范围与关联交易。",
+        "impact": "决定无边界扩张是由强现金流支撑还是主要依赖外部融资。"
+      },
+      {
+        "id": "gap-004",
+        "question": "2026年裁撤比例、BU真实经营质量和收缩的首要原因是什么？",
+        "searched": "已查财新、36氪、第一财经、红星资本局与国务院政策；公司确认战略聚焦，但匿名信源数据未审计。",
+        "next_query": "获取内部组织清单、劳动仲裁公开文书、基金备案与返投报告、公司正式人员及财务披露。",
+        "impact": "决定这是主动聚焦、组织失控、资金压力还是监管变化主导的转折。"
+      },
+      {
+        "id": "gap-005",
+        "question": "公益承诺实际到账、支出和个人财富传承如何安排？",
+        "searched": "已查清华基金会年度报告、专项启动新闻、《中国慈善家》调查、基金会官网与登记聚合信息；未见完整审计和跨代安排。",
+        "next_query": "查询民政部慈善中国、南通市民政局年度报告、香港公司年报、受赠机构审计披露；只采信本人公开或合法公开的信托与持股文件。",
+        "impact": "当前只能回答公益方向，不能回答个人财富是否或如何传给下一代。"
+      },
+      {
+        "id": "gap-006",
+        "question": "收购嘉美包装的长期目的是什么？",
+        "searched": "已查提示公告、控制权变更、要约报告与股份质押报道；公开文件只写巩固控制、长期发展，并承诺36个月不注入资产。",
+        "next_query": "跟踪嘉美包装董事会变更、资本开支、关联交易和2026–2029定期报告。",
+        "impact": "决定它是独立财务/产业投资、融资平台、供应链协同还是更长期资本市场安排。"
+      }
+    ],
+    "scenarios": []
+  }
+}

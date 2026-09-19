@@ -1,0 +1,57 @@
+"""Stable public surface for collection receipts and simulation adapters."""
+
+from .contracts import (
+    EXECUTOR_ATTESTATION_SCHEMA,
+    COLLECTION_RECEIPT_SCHEMA,
+    ExecutorAttestation,
+    IntegrationContractError,
+    Receipt,
+    ToolCall,
+    ToolResult,
+    assert_result_matches,
+    canonical_json,
+    payload_sha256,
+)
+from .mirofish import (
+    ALLOWED_SEED_CLAIM_STATUSES,
+    MIROFISH_STAGE_DEFINITIONS,
+    MiroFishAdapter,
+    SEED_SCHEMA_VERSION,
+    SeedPackage,
+    SimulationArtifact,
+    SimulationPlan,
+    SimulationStage,
+    StageDefinition,
+    StageProgress,
+    StageRequirement,
+    StageStatus,
+    load_seed_package,
+)
+from .receipt import normalize_receipt
+
+__all__ = [
+    "ALLOWED_SEED_CLAIM_STATUSES",
+    "EXECUTOR_ATTESTATION_SCHEMA",
+    "ExecutorAttestation",
+    "IntegrationContractError",
+    "MIROFISH_STAGE_DEFINITIONS",
+    "MiroFishAdapter",
+    "Receipt",
+    "COLLECTION_RECEIPT_SCHEMA",
+    "SEED_SCHEMA_VERSION",
+    "SeedPackage",
+    "SimulationArtifact",
+    "SimulationPlan",
+    "SimulationStage",
+    "StageDefinition",
+    "StageProgress",
+    "StageRequirement",
+    "StageStatus",
+    "ToolCall",
+    "ToolResult",
+    "assert_result_matches",
+    "canonical_json",
+    "load_seed_package",
+    "normalize_receipt",
+    "payload_sha256",
+]

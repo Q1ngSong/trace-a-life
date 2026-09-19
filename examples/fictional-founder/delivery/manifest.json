@@ -1,0 +1,24 @@
+{
+  "artifacts": {
+    "case": {
+      "bytes": 21107,
+      "kind": "file",
+      "path": "case.json",
+      "sha256": "7a7a2bfbce082cc901d636478db55ef700367153c1008b939e838681dd91a99f"
+    },
+    "html": {
+      "bytes": 57343,
+      "kind": "file",
+      "path": "site/index.html",
+      "sha256": "7c181132ed184599b57e0e831bfcea252d94db288f71ebba9ea10580b4778e42"
+    },
+    "view_model": {
+      "bytes": 44848,
+      "kind": "file",
+      "path": "site/view-model.json",
+      "sha256": "86c273946c7ddd745d75ce336e2b7ec4210fe6f89c3ec3e86b5d05440e0c3aa7"
+    }
+  },
+  "hash_algorithm": "sha256",
+  "schema_version": "xray-delivery-manifest/1"
+}

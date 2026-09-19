@@ -1,0 +1,7 @@
+interface:
+  display_name: "Trace a Life"
+  short_description: "核查商业人物生平、关键决策与代际传承并生成证据网页"
+  brand_color: "#B84A2B"
+  default_prompt: "Use $trace-a-life to investigate this public business figure, verify the pivotal claims, and render an evidence-backed webpage."
+policy:
+  allow_implicit_invocation: true

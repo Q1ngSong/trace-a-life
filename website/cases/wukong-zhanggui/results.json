@@ -1,0 +1,1238 @@
+{
+  "schema_version": "public-research/1",
+  "kind": "企业",
+  "data": {
+    "subject": {
+      "name": "悟空掌柜",
+      "anchor": "广州水熊科技 / 创始人王栋 / 社交电商 / 2018—2026",
+      "lifespan": "项目约2018年启动，2019年正式上线；当前产品状态未确认",
+      "known_for": "以付费掌柜、私域流量、精选供应链和多种收益渠道组织社交电商网络，并在2020年获得亿元级A轮融资",
+      "summary": "悟空掌柜不是一个能够用单一死亡日期解释的项目。公开证据支持广州水熊科技于2018年成立、平台于2019年上线并在2020年完成亿元级A轮融资；同年4月平台取消返利并流失大量参与者，但2020年9月仍公开宣称有交易规模，2021年王栋又推动视频号直播转向，水熊科技还出现在2021年广州补助、2022年广东科技型中小企业名单及2023年劳动仲裁公告中。王栋后来把2020年4月描述为微信账号大规模封禁导致项目失败并亏损4亿元，这一说法只能作为事后自述，不能覆盖同时期和后续持续活动的反证。"
+    },
+    "report": {
+      "title": "悟空掌柜：没有一个简单的死亡日期",
+      "eyebrow": "社交电商项目追踪 / 证据冻结版",
+      "dek": "它在私域流量最热的窗口放大，也在返利规则、微信生态依赖和合规压力的夹缝里改轨。项目叙事、法律实体和创始人的事后复盘，必须分开来看。",
+      "thesis": "现有证据最支持的解释是：悟空掌柜借2019年前后的社交电商与私域流量窗口，以邀请制、付费掌柜和供应链分佣快速组织交易网络，并凭增长叙事取得机构融资；但多收益通道、返利与团队扩张同时带来用户质量、平台依赖和合规风险。2020年4月取消返利是可确认的重大模式修正，微信账号封禁与4亿元损失则仅有创始人事后自述。此后仍存在2020年经营宣称、2021年视频号转向、政府项目名录和2023年劳动争议，因此更准确的结论是原模式受挫并改轨，产品后来淡出，而不是2020年4月公司与项目瞬间、彻底消失。",
+      "as_of": "2026-09-01"
+    },
+    "fact_freeze": {
+      "status": "frozen",
+      "frozen_at": "2026-09-01T21:30:00+08:00",
+      "notes": "冻结20条主张、14个事件、5项关键决策和16个来源。强谱系门禁后，实体—项目绑定、邀请制模式、A轮融资均降为部分确认；2020—2021持续活动降为当事人自述。三条边界继续有效：4亿元是自述；涉嫌传销是未获官方认定的争议；2020年4月是原模式重大转折而非已证实的公司即时终结。当前经营、投资退出、悟空健康承接与荣鲤科技关系按缺口冻结。"
+    },
+    "chapters": [
+      {
+        "id": "origins",
+        "label": "起盘",
+        "years": "2018–2019",
+        "title": "把私域人脉变成一套掌柜网络",
+        "summary": "广州水熊科技于2018年成立，王栋把精选供应链、邀请关系与掌柜分佣组合为社交电商平台。2019年公测、上线和早期融资发生在社交电商快速增长、电子商务法开始覆盖新业态的窗口。"
+      },
+      {
+        "id": "ascent",
+        "label": "放大",
+        "years": "2019–2020",
+        "title": "融资、交易规模与模式张力同时上升",
+        "summary": "平台以私域流量和付费掌柜扩张，2020年初获亿元级A轮。公司当时宣称月GMV达数千万元、活跃B端掌柜约4万人；这些数字未经审计。邀请制、返利与多重收益渠道也引发经营模式质疑。"
+      },
+      {
+        "id": "turning-point",
+        "label": "改轨",
+        "years": "2020–2021",
+        "title": "取消返利之后，流失、直播与事后失败叙事",
+        "summary": "王栋在2020年同期采访中确认4月取消返利、积分限于购物并流失很多人；2021年又通过视频号和主播团队重塑销售。多年后，他把同一时间点讲成微信账号大规模封禁导致失败并损失4亿元，二者需要并置而非强行合并。"
+      },
+      {
+        "id": "legacy",
+        "label": "残留",
+        "years": "2021–2026",
+        "title": "产品淡出，不等于法律实体同步消失",
+        "summary": "水熊科技在2021年获得广州成长企业补助，2022年进入广东科技型中小企业名单，2023年又出现在劳动仲裁公告。软件下载聚合页已标注暂无下载，原官网当前TLS访问未能确认；没有足够证据给出公司现状、产品终止日或创始人财富去向。"
+      }
+    ],
+    "events": [
+      {
+        "id": "event-001",
+        "chapter_id": "origins",
+        "date": "2018-06-05",
+        "title": "广州水熊科技成立",
+        "summary": "项目数据库显示公司成立、法定代表人为王栋。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-003"
+        ]
+      },
+      {
+        "id": "event-002",
+        "chapter_id": "origins",
+        "date": "2019-04",
+        "title": "悟空掌柜开始公测",
+        "summary": "融资报道中的公司口径称4月开始公测。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-001"
+        ]
+      },
+      {
+        "id": "event-003",
+        "chapter_id": "origins",
+        "date": "2019-05",
+        "title": "经营模式遭到外部质疑",
+        "summary": "行业反传销网站转述网友举报，指称入门费、拉人头和团队计酬；没有官方定性。",
+        "epistemic_status": "dispute",
+        "source_ids": [
+          "src-010"
+        ]
+      },
+      {
+        "id": "event-004",
+        "chapter_id": "origins",
+        "date": "2019-08",
+        "title": "项目库记录早期股权融资",
+        "summary": "千贤资本与蚂蚁微仓被列为投资方，金额未披露。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-003"
+        ]
+      },
+      {
+        "id": "event-005",
+        "chapter_id": "ascent",
+        "date": "2019-09",
+        "title": "正式上线运营",
+        "summary": "报道口径称平台9月正式上线。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-001"
+        ]
+      },
+      {
+        "id": "event-006",
+        "chapter_id": "ascent",
+        "date": "2020-02",
+        "title": "完成亿元级A轮融资",
+        "summary": "广发信德领投，涌铧投资跟投。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-001",
+          "src-013"
+        ]
+      },
+      {
+        "id": "event-007",
+        "chapter_id": "turning-point",
+        "date": "2020-04",
+        "title": "取消返利并限制积分用途",
+        "summary": "王栋称此举使很多人离开，留下更专注卖货的掌柜。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-004"
+        ]
+      },
+      {
+        "id": "event-008",
+        "chapter_id": "turning-point",
+        "date": "2020-09",
+        "title": "仍公开宣称月GMV和掌柜规模",
+        "summary": "王栋同期采访称月GMV四五千万元、活跃交易B端掌柜4万多人，数字未审计。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-004"
+        ]
+      },
+      {
+        "id": "event-009",
+        "chapter_id": "turning-point",
+        "date": "2021-07",
+        "title": "转向视频号直播和主播团队",
+        "summary": "王栋在公司直播间长时间直播，并称要为悟空掌柜建立主播团队。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-005"
+        ]
+      },
+      {
+        "id": "event-010",
+        "chapter_id": "legacy",
+        "date": "2021",
+        "title": "进入广州后补助名单",
+        "summary": "官方名单列水熊科技成长企业补助10万元。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-006"
+        ]
+      },
+      {
+        "id": "event-011",
+        "chapter_id": "legacy",
+        "date": "2021",
+        "title": "悟空健康宣传出现",
+        "summary": "商业宣传稿将其描述为2021年新项目，但与水熊科技及悟空掌柜的法律承接关系不明。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-014"
+        ]
+      },
+      {
+        "id": "event-012",
+        "chapter_id": "legacy",
+        "date": "2022",
+        "title": "进入广东科技型中小企业名单",
+        "summary": "广东省科技厅名单保留公司制度性轨迹。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-007"
+        ]
+      },
+      {
+        "id": "event-013",
+        "chapter_id": "legacy",
+        "date": "2022-11—2023-03",
+        "title": "劳动争议仲裁与公告送达",
+        "summary": "公司被裁决支付9750元经济补偿；不据此推断破产或全面停摆。",
+        "epistemic_status": "fact",
+        "source_ids": [
+          "src-008"
+        ]
+      },
+      {
+        "id": "event-014",
+        "chapter_id": "legacy",
+        "date": "约2025",
+        "title": "王栋发布4亿元失败复盘",
+        "summary": "事后叙事把2020年4月封号视为失败节点，与当时及后续活动形成需要解释的冲突。",
+        "epistemic_status": "self_report",
+        "source_ids": [
+          "src-009"
+        ]
+      }
+    ],
+    "decisions": [
+      {
+        "id": "decision-001",
+        "date": "2018–2019",
+        "title": "用邀请制与掌柜私域网络起盘",
+        "decision": "不直接面向所有消费者获客，而由掌柜贡献私域流量、组织销售与传播。",
+        "outcome": "短期形成掌柜网络并吸引融资，长期把平台暴露于微信生态、激励质量与合规边界。",
+        "interpretation": "它把获客成本外包给掌柜，同时也把平台最关键的分发权交给了外部社交平台。",
+        "interpretation_status": "inference",
+        "falsifier": "若后台数据证明大部分交易来自平台自然流量且微信关系贡献有限，应降低私域模式的因果权重。",
+        "source_ids": [
+          "src-002",
+          "src-004"
+        ],
+        "known_at_time": [
+          "微信社交关系能低成本触达消费者",
+          "新平台缺少全国性流量和品牌",
+          "中国供应链可提供大量日用SKU"
+        ],
+        "alternatives": [
+          "开放式货架电商",
+          "自营直营网店",
+          "只做供应链SaaS或代运营"
+        ],
+        "constraints": [
+          "依赖微信账号和社交图谱",
+          "掌柜激励必须持续",
+          "用户归属与平台规则存在张力"
+        ],
+        "alternative_explanations": [
+          "真正驱动交易的可能是低价供应链而不是关系网络",
+          "邀请制也可能主要用于渠道归因"
+        ]
+      },
+      {
+        "id": "decision-002",
+        "date": "2019–2020",
+        "title": "以付费掌柜和多收益通道放大网络",
+        "decision": "以365元掌柜费及销售、内容、招募、供应商和管理等收益通道吸引参与者。",
+        "outcome": "网络与融资叙事快速放大，也产生外部传销质疑和后来规则修正。",
+        "interpretation": "增长激励与合规风险来自同一套机制，不能只把前者写成创新、把后者写成偶然。",
+        "interpretation_status": "inference",
+        "falsifier": "若完整合同和结算数据证明收益严格来自最终商品销售且不以发展人员计酬，应撤回团队激励风险判断。",
+        "source_ids": [
+          "src-004",
+          "src-010",
+          "src-011"
+        ],
+        "known_at_time": [
+          "社交电商处在资本与用户增长窗口",
+          "平台需要快速扩大供给和分销节点",
+          "掌柜期望即时、可见的收益"
+        ],
+        "alternatives": [
+          "只按真实商品销售佣金结算",
+          "取消入门费",
+          "雇佣专职销售而非社会化分销"
+        ],
+        "constraints": [
+          "收益结构复杂",
+          "招募与团队计酬易引发合规质疑",
+          "参与者动机可能偏离零售"
+        ],
+        "alternative_explanations": [
+          "部分指控可能误读了正常的分销佣金",
+          "实际收入结构可能在版本间变化"
+        ]
+      },
+      {
+        "id": "decision-003",
+        "date": "2020-04",
+        "title": "取消返利，把积分锁回消费",
+        "decision": "停止返利，并将积分用途限制为平台购物。",
+        "outcome": "王栋称很多人离开，留下更专注卖货者；平台后来转向直播。",
+        "interpretation": "这是原模式的内生修正，也是项目从增长叙事转入生存叙事的清晰节点。",
+        "interpretation_status": "fact",
+        "falsifier": "若规则公告和账户数据证明返利未取消或流失与此无关，应重写该节点。",
+        "source_ids": [
+          "src-004",
+          "src-009"
+        ],
+        "known_at_time": [
+          "早期生态出现跑偏或不合理部分",
+          "参与者对返利敏感",
+          "社交电商合规环境收紧"
+        ],
+        "alternatives": [
+          "维持原返利结构",
+          "分阶段降低返利",
+          "完全转向纯销售佣金"
+        ],
+        "constraints": [
+          "改变既有收益预期会造成流失",
+          "现金流与用户质量之间需要取舍",
+          "微信生态处置情况未公开"
+        ],
+        "alternative_explanations": [
+          "规则变化可能由资金压力而非主动合规驱动",
+          "微信封号可能同时发生并放大流失"
+        ]
+      },
+      {
+        "id": "decision-004",
+        "date": "2021",
+        "title": "从图文私域分销转向视频号直播",
+        "decision": "建立主播团队，把悟空掌柜改造成品牌包装、推广和线上线下销售平台。",
+        "outcome": "形成公开转型叙事，但未找到后续规模、财务或持续运营证明。",
+        "interpretation": "它说明2020年并非法律实体和品牌的即时终点，也说明原有增长公式需要更换流量载体。",
+        "interpretation_status": "fact",
+        "falsifier": "若公司记录显示主播团队从未建立、项目在采访前已停止，则应把它降为未执行计划。",
+        "source_ids": [
+          "src-005",
+          "src-014"
+        ],
+        "known_at_time": [
+          "微信视频号流量快速增长",
+          "原返利模式已调整并流失用户",
+          "直播电商成为新获客与转化渠道"
+        ],
+        "alternatives": [
+          "继续原掌柜分销",
+          "关闭项目",
+          "转向纯供应链或线下门店"
+        ],
+        "constraints": [
+          "主播培训和内容供给",
+          "平台算法依赖仍然存在",
+          "旧用户与新业务如何承接不明"
+        ],
+        "alternative_explanations": [
+          "视频号计划可能只是试验或个人宣传",
+          "悟空健康可能才是主要后续方向"
+        ]
+      },
+      {
+        "id": "decision-005",
+        "date": "约2025",
+        "title": "把复杂衰退压缩成一次封号失败",
+        "decision": "王栋在事后传播中用2020年4月微信账号大规模封禁与4亿元损失概括悟空掌柜失败。",
+        "outcome": "形成清晰但与同期证据不完全一致的失败故事。",
+        "interpretation": "这不是证明其撒谎，而是提醒读者：事后传记会把多阶段变化压缩为一个可传播的因果节点。",
+        "interpretation_status": "inference",
+        "falsifier": "若获得微信处置记录、用户曲线和财务账证明4月封号直接导致主体业务归零，单一因果叙事可被升级。",
+        "source_ids": [
+          "src-004",
+          "src-005",
+          "src-009"
+        ],
+        "known_at_time": [
+          "失败复盘具有传播和教学价值",
+          "同期细节已远离当下受众",
+          "平台最终确已淡出主流视野"
+        ],
+        "alternatives": [
+          "公开完整经营与财务时间线",
+          "分别解释返利调整、封号、直播转型和后续公司轨迹",
+          "不再讲述该项目"
+        ],
+        "constraints": [
+          "缺少公开财务和平台处置记录",
+          "短视频需要高度压缩",
+          "创始人有重塑失败经验的叙事动机"
+        ],
+        "alternative_explanations": [
+          "封号确实可能是原模式不可逆的核心冲击",
+          "2020年后的活动可能只是清理和残余尝试"
+        ]
+      }
+    ],
+    "contexts": [
+      {
+        "id": "context-001",
+        "period": "2018–2020",
+        "title": "社交电商与私域流量窗口",
+        "type": "平台与市场",
+        "summary": "微信关系链和移动支付让个人分销节点能低成本聚合需求，私域流量成为平台与掌柜共同争夺的资产。",
+        "source_ids": [
+          "src-002",
+          "src-011"
+        ]
+      },
+      {
+        "id": "context-002",
+        "period": "2019起",
+        "title": "电子商务法覆盖社交电商新业态",
+        "type": "法律制度",
+        "summary": "商务部解读明确，通过社交平台销售商品或服务属于电子商务法调整范围；平台不能把社交关系当成监管真空。",
+        "source_ids": [
+          "src-011"
+        ]
+      },
+      {
+        "id": "context-003",
+        "period": "2019–2021",
+        "title": "团队计酬与入门门槛处于高风险监管带",
+        "type": "合规",
+        "summary": "广州同期执法案例显示，认购产品、发展他人加入和团队计酬可能触发传销执法；该匿名案例没有点名水熊科技，只能作为环境而非定性证据。",
+        "source_ids": [
+          "src-010",
+          "src-012"
+        ]
+      },
+      {
+        "id": "context-004",
+        "period": "2020",
+        "title": "疫情冲击与平台治理同时改变线下和私域交易",
+        "type": "宏观环境",
+        "summary": "王栋同期采访把疫情列为经济冲击，同时平台在4月调整返利；本轮没有证据把其中任一因素确定为唯一原因。",
+        "source_ids": [
+          "src-004"
+        ]
+      },
+      {
+        "id": "context-005",
+        "period": "2020–2021",
+        "title": "直播与视频号成为新的流量入口",
+        "type": "媒介迁移",
+        "summary": "悟空掌柜从掌柜图文分销转向主播团队，反映社交电商把增长希望从关系链进一步转到直播内容。",
+        "source_ids": [
+          "src-005"
+        ]
+      },
+      {
+        "id": "context-006",
+        "period": "2020–2023",
+        "title": "项目退潮、法律实体与行政记录并不同步",
+        "type": "组织存续",
+        "summary": "一个产品可能淡出，而公司仍可参加比赛、领取补助、进入名录并处理劳动关系；这些记录也不能反向证明业务健康。",
+        "source_ids": [
+          "src-006",
+          "src-007",
+          "src-008",
+          "src-016"
+        ]
+      }
+    ],
+    "relationships": {
+      "nodes": [
+        {
+          "id": "person-wangdong",
+          "label": "王栋",
+          "type": "person",
+          "description": "广州水熊科技创始人、法定代表人；悟空掌柜核心公开叙事者"
+        },
+        {
+          "id": "org-waterbear",
+          "label": "广州水熊科技",
+          "type": "company",
+          "description": "悟空掌柜核心运营法律实体"
+        },
+        {
+          "id": "product-wukong",
+          "label": "悟空掌柜",
+          "type": "product",
+          "description": "邀请制社交电商与私域分销平台"
+        },
+        {
+          "id": "org-gf",
+          "label": "广发信德",
+          "type": "investor",
+          "description": "2020年A轮领投方"
+        },
+        {
+          "id": "org-yonghua",
+          "label": "涌铧投资",
+          "type": "investor",
+          "description": "2020年A轮跟投方"
+        },
+        {
+          "id": "org-qianxian",
+          "label": "千贤资本",
+          "type": "investor",
+          "description": "项目库记录的2019年投资方"
+        },
+        {
+          "id": "org-antwarehouse",
+          "label": "蚂蚁微仓",
+          "type": "investor",
+          "description": "项目库记录的2019年投资方"
+        },
+        {
+          "id": "platform-wechat",
+          "label": "微信生态",
+          "type": "platform",
+          "description": "私域流量、账号、视频号和直播所依赖的平台"
+        },
+        {
+          "id": "network-managers",
+          "label": "掌柜网络",
+          "type": "community",
+          "description": "承担私域获客、销售和传播的B端参与者"
+        },
+        {
+          "id": "project-health",
+          "label": "悟空健康",
+          "type": "project",
+          "description": "2021年宣传出现的健康品连锁项目，与悟空掌柜法律承接关系不明"
+        },
+        {
+          "id": "org-rongli",
+          "label": "广州荣鲤科技",
+          "type": "company",
+          "description": "少量营销稿中出现的冲突主体，关系未证实"
+        }
+      ],
+      "edges": [
+        {
+          "id": "edge-001",
+          "source": "person-wangdong",
+          "target": "org-waterbear",
+          "label": "创始人 / 法定代表人",
+          "period": "2018起",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-002",
+            "src-003"
+          ]
+        },
+        {
+          "id": "edge-002",
+          "source": "org-waterbear",
+          "target": "product-wukong",
+          "label": "核心运营主体",
+          "period": "2018起",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-002",
+            "src-003"
+          ]
+        },
+        {
+          "id": "edge-003",
+          "source": "org-gf",
+          "target": "org-waterbear",
+          "label": "A轮领投",
+          "period": "2020",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-001",
+            "src-013"
+          ]
+        },
+        {
+          "id": "edge-004",
+          "source": "org-yonghua",
+          "target": "org-waterbear",
+          "label": "A轮跟投",
+          "period": "2020",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-001",
+            "src-013"
+          ]
+        },
+        {
+          "id": "edge-005",
+          "source": "org-qianxian",
+          "target": "org-waterbear",
+          "label": "早期投资（待原件复核）",
+          "period": "2019",
+          "epistemic_status": "inference",
+          "source_ids": [
+            "src-003"
+          ]
+        },
+        {
+          "id": "edge-006",
+          "source": "org-antwarehouse",
+          "target": "org-waterbear",
+          "label": "早期投资（待原件复核）",
+          "period": "2019",
+          "epistemic_status": "inference",
+          "source_ids": [
+            "src-003"
+          ]
+        },
+        {
+          "id": "edge-007",
+          "source": "product-wukong",
+          "target": "platform-wechat",
+          "label": "依赖私域流量、账号与视频号",
+          "period": "2019–2021",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-002",
+            "src-005",
+            "src-009"
+          ]
+        },
+        {
+          "id": "edge-008",
+          "source": "product-wukong",
+          "target": "network-managers",
+          "label": "付费掌柜、销售与传播网络",
+          "period": "2019–2021",
+          "epistemic_status": "fact",
+          "source_ids": [
+            "src-002",
+            "src-004"
+          ]
+        },
+        {
+          "id": "edge-009",
+          "source": "person-wangdong",
+          "target": "project-health",
+          "label": "宣传稿所称创办与推广",
+          "period": "2021",
+          "epistemic_status": "inference",
+          "source_ids": [
+            "src-014"
+          ]
+        },
+        {
+          "id": "edge-010",
+          "source": "product-wukong",
+          "target": "org-rongli",
+          "label": "营销稿所称旗下项目",
+          "period": "2019",
+          "epistemic_status": "dispute",
+          "source_ids": []
+        }
+      ]
+    },
+    "wealth": {
+      "summary": "本案能追踪的是融资、公司股权、平台流量与供应链能力，不能把融资额、GMV或王栋所称4亿元损失直接换算为个人财富。没有发现公开的财富传承、信托、遗嘱或下一代交接资料。",
+      "stages": [
+        {
+          "id": "wealth-001",
+          "period": "2018–2019",
+          "title": "私域网络与供应链形成项目资产",
+          "summary": "邀请关系、掌柜节点、选品与供应商构成项目的早期组织资本；其货币价值没有公开审计。",
+          "mechanism": "关系网络 / 供应链 / 平台规则",
+          "source_ids": [
+            "src-002",
+            "src-004"
+          ]
+        },
+        {
+          "id": "wealth-002",
+          "period": "2019",
+          "title": "早期机构资本",
+          "summary": "项目库记录千贤资本与蚂蚁微仓投资，金额与条款未披露。",
+          "mechanism": "股权融资",
+          "source_ids": [
+            "src-003"
+          ]
+        },
+        {
+          "id": "wealth-003",
+          "period": "2020",
+          "title": "亿元级A轮扩大公司资源",
+          "summary": "广发信德与涌铧投资进入，具体到账、估值、王栋稀释比例和资金用途均未公开。",
+          "mechanism": "风险资本 / 公司股权",
+          "source_ids": [
+            "src-001",
+            "src-013"
+          ]
+        },
+        {
+          "id": "wealth-004",
+          "period": "2020以后",
+          "title": "损失口径无法审计",
+          "summary": "王栋后来称亏损4亿元，但未说明个人、公司、现金投入或估值损失口径。",
+          "mechanism": "事后自述 / 未审计损失",
+          "source_ids": [
+            "src-009"
+          ]
+        }
+      ],
+      "transfers": [
+        {
+          "id": "transfer-001",
+          "period": "未公开",
+          "title": "投资人退出与股权回报未知",
+          "summary": "未找到回购、清算、并购、上市、老股转让或基金退出文件。",
+          "source_ids": [
+            "src-001",
+            "src-003",
+            "src-013"
+          ]
+        },
+        {
+          "id": "transfer-002",
+          "period": "未公开",
+          "title": "创始人个人财富去向未知",
+          "summary": "没有审计材料证明4亿元损失由王栋个人承担，也没有公开资产处置证据。",
+          "source_ids": [
+            "src-009"
+          ]
+        },
+        {
+          "id": "transfer-003",
+          "period": "未公开",
+          "title": "向下一代传承没有公开证据",
+          "summary": "未发现可核验的家族信托、遗嘱、子女持股、接班或公益替代传承安排。",
+          "source_ids": []
+        }
+      ]
+    },
+    "claims": [
+      {
+        "id": "claim-001",
+        "text": "本案悟空掌柜对应的核心运营实体是广州水熊科技有限公司，创始人与法定代表人为王栋。",
+        "importance": "critical",
+        "status": "partial",
+        "explanation": "36氪业务报道和项目库指向同一公司与创始人，政府名录确认该公司持续作为技术企业出现；但项目—公司绑定缺少官方产品备案或公司原始文件。",
+        "counterevidence": "2019年有宣传稿把项目称为广州荣鲤科技旗下，未找到授权或股权文件解释二者关系。",
+        "evidence": [
+          {
+            "source_id": "src-002"
+          },
+          {
+            "source_id": "src-003"
+          },
+          {
+            "source_id": "src-006"
+          }
+        ]
+      },
+      {
+        "id": "claim-002",
+        "text": "悟空掌柜于2019年4月开始公测、9月正式上线运营。",
+        "importance": "critical",
+        "status": "partial",
+        "explanation": "上线节点来自融资报道中的公司口径，缺少应用商店或运营后台同期档案。",
+        "counterevidence": "另有宣传材料笼统写2019年创办，未形成实质冲突。",
+        "evidence": [
+          {
+            "source_id": "src-001"
+          }
+        ]
+      },
+      {
+        "id": "claim-003",
+        "text": "平台采用邀请制，依赖掌柜的私域流量，并不向所有消费者完全开放。",
+        "importance": "critical",
+        "status": "partial",
+        "explanation": "36氪报道给出明确产品机制，2020年王栋同期采访又确认掌柜费、分销与团队收益结构；两者仍以公司/创始人口径为主。",
+        "counterevidence": "未取得产品协议、完整规则版本与用户端实测。",
+        "evidence": [
+          {
+            "source_id": "src-002"
+          },
+          {
+            "source_id": "src-004"
+          }
+        ]
+      },
+      {
+        "id": "claim-004",
+        "text": "悟空掌柜在2020年初完成亿元级A轮融资，广发信德领投、涌铧投资跟投。",
+        "importance": "critical",
+        "status": "partial",
+        "explanation": "融资媒体报道与工商股东聚合页相互旁证机构关系，但强独立来源只有融资报道，且没有取得投资协议与到账凭证。",
+        "counterevidence": "融资额为亿元级而非精确金额。",
+        "evidence": [
+          {
+            "source_id": "src-001"
+          },
+          {
+            "source_id": "src-013"
+          }
+        ]
+      },
+      {
+        "id": "claim-005",
+        "text": "公司在2020年对外宣称月GMV约4000万至5000万元、活跃交易B端掌柜约4万人。",
+        "importance": "supporting",
+        "status": "self_reported",
+        "explanation": "数字来自王栋采访与公司融资口径，未见支付、订单或审计数据。",
+        "counterevidence": "融资报道也给出相近量级，但可能同源。",
+        "evidence": [
+          {
+            "source_id": "src-004"
+          }
+        ]
+      },
+      {
+        "id": "claim-006",
+        "text": "2020年4月平台取消返利、把积分限定为平台购物使用，并因此流失很多参与者。",
+        "importance": "critical",
+        "status": "self_reported",
+        "explanation": "这是王栋在2020年9月同期采访中的直接表述，时间接近事件，但缺少规则变更通知与用户数据。",
+        "counterevidence": "未找到平台公告证明具体生效日和流失规模。",
+        "evidence": [
+          {
+            "source_id": "src-004"
+          }
+        ]
+      },
+      {
+        "id": "claim-007",
+        "text": "2019年外部文章指控悟空掌柜存在入门费、发展下线和团队计酬并涉嫌传销。",
+        "importance": "supporting",
+        "status": "unverified",
+        "explanation": "该说法来自行业反传销网站和网友举报，不是行政处罚、监管调查结论或法院裁判。",
+        "counterevidence": "本轮未找到点名悟空掌柜或水熊科技的官方传销认定；没有发现不等于不存在。",
+        "evidence": [
+          {
+            "source_id": "src-010"
+          }
+        ]
+      },
+      {
+        "id": "claim-008",
+        "text": "2020年4月之后，王栋仍公开讲述悟空掌柜的经营活动，并在2021年声称尝试以视频号直播和主播团队转型。",
+        "importance": "critical",
+        "status": "self_reported",
+        "explanation": "2020年9月同期采访给出当时经营口径，2021年采访明确王栋仍在以悟空掌柜名义组建主播团队；二者都属于当事人公开说法。",
+        "counterevidence": "不能据此证明健康经营、实际交易持续或转型计划已经落地。",
+        "evidence": [
+          {
+            "source_id": "src-004"
+          },
+          {
+            "source_id": "src-005"
+          }
+        ]
+      },
+      {
+        "id": "claim-009",
+        "text": "王栋后来将悟空掌柜描述为因2020年4月微信账号大规模封禁而失败，并称损失4亿元。",
+        "importance": "critical",
+        "status": "self_reported",
+        "explanation": "这是多年后的个人失败复盘页面摘要，未取得完整逐字稿、微信处置记录或财务凭证。",
+        "counterevidence": "2020年9月和2021年仍有以悟空掌柜名义活动的公开证据。",
+        "evidence": [
+          {
+            "source_id": "src-009"
+          }
+        ]
+      },
+      {
+        "id": "claim-010",
+        "text": "“悟空掌柜在2020年4月因封号而立即、彻底终结”这一单一因果叙事不成立。",
+        "importance": "critical",
+        "status": "contradicted",
+        "explanation": "事后复盘把4月写为失败节点，但2020年9月同期经营宣称、2021年视频号转向和后续公司公示轨迹均反对‘立即且彻底终结’。",
+        "counterevidence": "原商业模式可能确实在2020年4月遭受重大打击，持续活动不等于原模式恢复。",
+        "evidence": [
+          {
+            "source_id": "src-009"
+          },
+          {
+            "source_id": "src-004"
+          },
+          {
+            "source_id": "src-005"
+          }
+        ]
+      },
+      {
+        "id": "claim-011",
+        "text": "悟空掌柜给王栋或水熊科技造成4亿元损失。",
+        "importance": "supporting",
+        "status": "self_reported",
+        "explanation": "目前只有王栋事后视频摘要，没有财务报表，也不清楚金额指投入、亏损、估值损失、公司还是个人。",
+        "counterevidence": "后续政府名录和活动轨迹说明至少法律实体没有同步消失，但不能直接否定损失。",
+        "evidence": [
+          {
+            "source_id": "src-009"
+          }
+        ]
+      },
+      {
+        "id": "claim-012",
+        "text": "广州水熊科技在2021年广州市科技型中小企业后补助名单中获成长企业补助10万元。",
+        "importance": "critical",
+        "status": "verified",
+        "explanation": "来自广州市科技局官方PDF。",
+        "counterevidence": "获得补助只证明当时的行政项目记录，不证明产品成功或公司盈利。",
+        "evidence": [
+          {
+            "source_id": "src-006"
+          }
+        ]
+      },
+      {
+        "id": "claim-013",
+        "text": "广州水熊科技进入广东省2022年第7批科技型中小企业名单。",
+        "importance": "critical",
+        "status": "verified",
+        "explanation": "来自广东省科技厅官方PDF。",
+        "counterevidence": "入库资格不等于持续经营规模、偿债能力或产品活跃。",
+        "evidence": [
+          {
+            "source_id": "src-007"
+          }
+        ]
+      },
+      {
+        "id": "claim-014",
+        "text": "2022年末至2023年初，广州水熊科技涉及一起劳动关系经济补偿仲裁，并被裁决支付9750元。",
+        "importance": "critical",
+        "status": "verified",
+        "explanation": "荔湾区劳动人事争议仲裁委员会公告给出立案、裁决与公告送达信息。",
+        "counterevidence": "未核实是否起诉、履行或执行；单案不能代表整体用工或财务状态。",
+        "evidence": [
+          {
+            "source_id": "src-008"
+          }
+        ]
+      },
+      {
+        "id": "claim-015",
+        "text": "法律实体广州水熊科技至少在2020至2023年持续留下制度性活动轨迹。",
+        "importance": "critical",
+        "status": "credible",
+        "explanation": "创新创业大赛、2021补助、2022科技型中小企业名单和2023劳动仲裁来自不同政府程序。",
+        "counterevidence": "这些轨迹不能证明平台持续活跃或公司在2026年仍有实质业务。",
+        "evidence": [
+          {
+            "source_id": "src-016"
+          },
+          {
+            "source_id": "src-006"
+          },
+          {
+            "source_id": "src-007"
+          },
+          {
+            "source_id": "src-008"
+          }
+        ]
+      },
+      {
+        "id": "claim-016",
+        "text": "截至2026年9月，工商聚合页仍把广州水熊科技标为在业。",
+        "importance": "supporting",
+        "status": "partial",
+        "explanation": "只有第三方聚合页当前快照，尚未用国家企业信用信息公示系统实时复核。",
+        "counterevidence": "聚合数据可能延迟，且在业不等于有实质经营。",
+        "evidence": [
+          {
+            "source_id": "src-013"
+          }
+        ]
+      },
+      {
+        "id": "claim-017",
+        "text": "悟空掌柜APP与官网目前仍正常提供服务。",
+        "importance": "supporting",
+        "status": "unverified",
+        "explanation": "软件下载聚合页显示暂无下载；官网HTTP仍重定向到HTTPS，但本轮TLS连接未成功，不能据此判断上线或下线。",
+        "counterevidence": "域名仍有解析和重定向，故不能简单写成官网已关闭。",
+        "evidence": [
+          {
+            "source_id": "src-015"
+          }
+        ]
+      },
+      {
+        "id": "claim-018",
+        "text": "悟空掌柜在2019年8月获得千贤资本和蚂蚁微仓投资。",
+        "importance": "supporting",
+        "status": "partial",
+        "explanation": "36氪项目库列出该轮融资，未取得投资公告、协议或工商变更原件。",
+        "counterevidence": "轮次与金额未披露。",
+        "evidence": [
+          {
+            "source_id": "src-003"
+          }
+        ]
+      },
+      {
+        "id": "claim-019",
+        "text": "2021年的悟空健康是悟空掌柜的正式承接项目。",
+        "importance": "supporting",
+        "status": "unverified",
+        "explanation": "宣传稿把王栋、悟空掌柜、悟空健康与视频号并列，但没有公司主体、股权、商标、资产或用户迁移文件。",
+        "counterevidence": "可能是新项目、品牌延伸或渠道合作，现有证据无法区分。",
+        "evidence": [
+          {
+            "source_id": "src-014"
+          }
+        ]
+      },
+      {
+        "id": "claim-020",
+        "text": "广州荣鲤科技是悟空掌柜的另一个运营主体。",
+        "importance": "supporting",
+        "status": "unverified",
+        "explanation": "只发现2019年营销报道采用该表述，与36氪、融资和政府材料指向水熊科技冲突。",
+        "counterevidence": "未找到荣鲤与水熊之间股权、授权、区域代理或品牌许可文件。",
+        "evidence": []
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-001",
+        "title": "36氪独家：悟空掌柜完成亿元级A轮融资",
+        "url": "https://www.36kr.com/p/1725141188609",
+        "publisher": "36氪",
+        "published_at": "2020-02-26",
+        "accessed_at": "2026-09-01",
+        "type": "news",
+        "role": "independent",
+        "origin_cluster": "36kr-a-round-2020",
+        "notes": "确认融资事件与投资方；交易规模、掌柜数和SKU等为公司提供口径，未审计。"
+      },
+      {
+        "id": "src-002",
+        "title": "我在下沉市场做掌柜",
+        "url": "https://36kr.com/p/1725272473601",
+        "publisher": "36氪",
+        "published_at": "2020-03-17",
+        "accessed_at": "2026-09-01",
+        "type": "profile",
+        "role": "self_report",
+        "origin_cluster": "36kr-business-model-2020",
+        "notes": "用于理解邀请制、私域流量和平台—掌柜关系；大量经营判断来自王栋。"
+      },
+      {
+        "id": "src-003",
+        "title": "悟空掌柜项目库",
+        "url": "https://pitchhub.36kr.com/project/1678442102715392",
+        "publisher": "36氪创投平台",
+        "published_at": "",
+        "accessed_at": "2026-09-01",
+        "type": "project_database",
+        "role": "discovery",
+        "origin_cluster": "36kr-project-database",
+        "notes": "用于实体、股东和2019年融资线索；工商与融资字段需官方登记或投资文件复核。"
+      },
+      {
+        "id": "src-004",
+        "title": "思想者王栋：社交让直播飞起来",
+        "url": "https://www.sohu.com/a/417712819_428729",
+        "publisher": "搜狐号 / 品途商业评论",
+        "published_at": "2020-09-11",
+        "accessed_at": "2026-09-01",
+        "type": "interview_repost",
+        "role": "self_report",
+        "origin_cluster": "pintu-wangdong-interview-2020",
+        "notes": "关键同期口径：4月取消返利、用户流失、月GMV与掌柜数、五类收益；数字未审计。"
+      },
+      {
+        "id": "src-005",
+        "title": "王栋：微信视频号将成实体商业下一个出口",
+        "url": "https://m.sohu.com/a/484544301_120460228",
+        "publisher": "搜狐号 / 财鲸岛",
+        "published_at": "2021-08-20",
+        "accessed_at": "2026-09-01",
+        "type": "interview_repost",
+        "role": "self_report",
+        "origin_cluster": "caijingdao-wangdong-interview-2021",
+        "notes": "证明王栋在2021年仍以悟空掌柜名义推动视频号和主播团队；目标数为自述。"
+      },
+      {
+        "id": "src-006",
+        "title": "2021年广州市科技型中小企业技术创新专题后补助名单",
+        "url": "https://kjj.gz.gov.cn/attachment/6/6718/6718556/6906161.pdf",
+        "publisher": "广州市科学技术局",
+        "published_at": "2021",
+        "accessed_at": "2026-09-01",
+        "type": "government_pdf",
+        "role": "primary",
+        "origin_cluster": "guangzhou-subsidy-2021",
+        "notes": "名单列广州水熊科技有限公司、荔湾区、成长企业补助10万元。"
+      },
+      {
+        "id": "src-007",
+        "title": "广东省2022年第7批入库科技型中小企业名单",
+        "url": "https://gdstc.gd.gov.cn/attachment/0/505/505475/4036716.pdf",
+        "publisher": "广东省科学技术厅",
+        "published_at": "2022",
+        "accessed_at": "2026-09-01",
+        "type": "government_pdf",
+        "role": "primary",
+        "origin_cluster": "guangdong-tech-sme-2022",
+        "notes": "名单包含广州水熊科技有限公司及入库编号。"
+      },
+      {
+        "id": "src-008",
+        "title": "冯彦毅与广州水熊科技有限公司裁决公告",
+        "url": "https://www.lw.gov.cn/ywdt/tzgg/content/post_8835221.html",
+        "publisher": "广州市荔湾区人民政府 / 劳动人事争议仲裁委员会",
+        "published_at": "2023-03-06",
+        "accessed_at": "2026-09-01",
+        "type": "government_notice",
+        "role": "primary",
+        "origin_cluster": "liwan-labor-arbitration-2023",
+        "notes": "确认2022年立案和9750元经济补偿裁决；公告送达不等同破产、强制执行或公司注销。"
+      },
+      {
+        "id": "src-009",
+        "title": "王栋访谈：悟空掌柜失败复盘",
+        "url": "https://www.douyin.com/video/7583992947079695652",
+        "publisher": "抖音 / 王栋个人叙述",
+        "published_at": "2025",
+        "accessed_at": "2026-09-01",
+        "type": "video",
+        "role": "self_report",
+        "origin_cluster": "wangdong-retrospective-video",
+        "notes": "页面摘要称2020年4月微信账号大规模封禁导致失败、亏损4亿元；未取得完整可核验字幕或财务材料。"
+      },
+      {
+        "id": "src-010",
+        "title": "水熊科技悟空掌柜经营模式涉嫌传销",
+        "url": "https://www.chndsnews.com/baoguang/2019/0507/97804.html",
+        "publisher": "反传销网 / 防骗先知",
+        "published_at": "2019-05-07",
+        "accessed_at": "2026-09-01",
+        "type": "allegation",
+        "role": "dispute",
+        "origin_cluster": "anti-mlm-allegation-2019",
+        "notes": "基于网友举报的行业质疑，不是监管决定或法院判决。"
+      },
+      {
+        "id": "src-011",
+        "title": "商务部：电子商务法调整对象与适用范围",
+        "url": "https://www.mofcom.gov.cn/zhrmghgdzswf/jd/art/2019/art_53663a6aad644d22a7bde066adf211b0.html",
+        "publisher": "中华人民共和国商务部",
+        "published_at": "2019",
+        "accessed_at": "2026-09-01",
+        "type": "policy_interpretation",
+        "role": "primary",
+        "origin_cluster": "mofcom-ecommerce-law-2019",
+        "notes": "用于社交电商受电子商务法调整的通用制度背景，没有点名悟空掌柜。"
+      },
+      {
+        "id": "src-012",
+        "title": "广州市市场监管局反不正当竞争典型案例",
+        "url": "https://www.gz.gov.cn/zwgk/zdly/jghsf/jgzf/zfdt/content/post_7158400.html",
+        "publisher": "广州市人民政府 / 市市场监管局",
+        "published_at": "2021-03-16",
+        "accessed_at": "2026-09-01",
+        "type": "government_case",
+        "role": "primary",
+        "origin_cluster": "guangzhou-mlm-enforcement-context-2021",
+        "notes": "匿名网络科技公司案例用于行业监管环境，不得映射为水熊科技。"
+      },
+      {
+        "id": "src-013",
+        "title": "广州水熊科技有限公司工商信息聚合页",
+        "url": "https://www.gongsi.com.cn/detail/047a9a61-106f-3c88-ac62-399a422838871",
+        "publisher": "公司网",
+        "published_at": "",
+        "accessed_at": "2026-09-01",
+        "type": "registry_aggregator",
+        "role": "discovery",
+        "origin_cluster": "waterbear-registry-aggregator",
+        "notes": "聚合页显示在业、注册资本和股东结构；不是国家企业信用信息公示系统实时证明。"
+      },
+      {
+        "id": "src-014",
+        "title": "悟空健康踏浪而来",
+        "url": "https://henan.china.com/m/news/roll/2021/1022/102021_214316.html",
+        "publisher": "中华网河南 / 商业宣传稿",
+        "published_at": "2021-10-22",
+        "accessed_at": "2026-09-01",
+        "type": "press_release",
+        "role": "self_report",
+        "origin_cluster": "wukong-health-pr-2021",
+        "notes": "宣称2021年初成立悟空健康并与王栋、悟空掌柜并列；没有工商或资产关系文件。"
+      },
+      {
+        "id": "src-015",
+        "title": "悟空掌柜安卓软件下载聚合页",
+        "url": "https://www.duote.com/android/647618.html",
+        "publisher": "多特软件站",
+        "published_at": "",
+        "accessed_at": "2026-09-01",
+        "type": "app_aggregator",
+        "role": "discovery",
+        "origin_cluster": "duote-app-aggregator",
+        "notes": "页面保留v2.2.56历史条目并标注暂无下载；不能单独证明官方下架时间。"
+      },
+      {
+        "id": "src-016",
+        "title": "2020年广州创新创业大赛复赛成长组名单",
+        "url": "https://kjj.gz.gov.cn/attachment/0/113/113461/6940789.pdf",
+        "publisher": "广州市科学技术局",
+        "published_at": "2020",
+        "accessed_at": "2026-09-01",
+        "type": "government_pdf",
+        "role": "primary",
+        "origin_cluster": "guangzhou-innovation-competition-2020",
+        "notes": "确认水熊科技列入新一代信息技术成长组复赛名单。"
+      }
+    ],
+    "unresolved_questions": [
+      {
+        "id": "gap-001",
+        "question": "2020年4月到底发生了返利调整、微信封号，还是二者同时发生？",
+        "searched": "已查2020年同期采访、2021年转型采访和王栋后来的失败复盘页面；缺少微信处置通知、平台公告与账户曲线。",
+        "next_query": "获取公司规则公告、微信安全处置记录、用户后台曲线和完整复盘字幕。",
+        "impact": "决定项目衰退的首要原因是内生模式修正、外部平台治理，还是二者叠加。"
+      },
+      {
+        "id": "gap-002",
+        "question": "月GMV、掌柜人数和4亿元损失的真实财务口径是什么？",
+        "searched": "已比对融资报道、同期采访与事后视频摘要；均无审计或支付流水。",
+        "next_query": "寻找投资人尽调、审计报表、支付机构对账、税务或司法材料。",
+        "impact": "决定平台峰值规模和失败成本能否从传播数字升级为财务事实。"
+      },
+      {
+        "id": "gap-003",
+        "question": "监管部门是否曾对悟空掌柜或水熊科技作出传销、虚假宣传或其他行政认定？",
+        "searched": "已检索广州政府、市场监管典型案例和公开网络报道；未找到点名决定。",
+        "next_query": "检索国家企业信用信息公示系统行政处罚、信用中国、裁判文书和广州各区市场监管公告。",
+        "impact": "在官方决定出现前，只能写模式质疑，不能写违法定性。"
+      },
+      {
+        "id": "gap-004",
+        "question": "广州水熊科技和悟空掌柜在2026年的真实经营状态是什么？",
+        "searched": "已查政府名录、劳动仲裁、工商与App聚合页；官网HTTP重定向存在但TLS访问未确认。",
+        "next_query": "在国家企业信用信息公示系统核验年报、异常名录、注销状态，并以真实设备测试官网、App和小程序。",
+        "impact": "决定能否给出产品终止日、公司停业或仍经营的当前结论。"
+      },
+      {
+        "id": "gap-005",
+        "question": "悟空健康、广州荣鲤科技与水熊科技之间是什么法律和资产关系？",
+        "searched": "已查商业宣传稿和项目数据库；未见股权、授权、商标或资产转让文件。",
+        "next_query": "查商标权属、公司股东历史、公众号主体、隐私协议和应用著作权。",
+        "impact": "关系到后续项目是否属于业务承接，及早期运营主体是否被误认。"
+      },
+      {
+        "id": "gap-006",
+        "question": "投资人实际投入、股权条款和退出情况如何？",
+        "searched": "已查融资报道、项目库和工商聚合页；未见投资协议、基金报告或退出公告。",
+        "next_query": "寻找广发信德、涌铧、千贤资本基金年报、工商历史档案与司法文件。",
+        "impact": "决定融资是否到账、王栋控制权变化，以及项目失败成本由谁承担。"
+      }
+    ],
+    "scenarios": []
+  }
+}

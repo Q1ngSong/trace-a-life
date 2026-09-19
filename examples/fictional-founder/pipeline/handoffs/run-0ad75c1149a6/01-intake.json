@@ -1,0 +1,27 @@
+{
+  "run_id": "run-0ad75c1149a6",
+  "case_id": "fictional-founder",
+  "stage": "intake",
+  "producer": "intake-agent",
+  "consumer": "leader-agent",
+  "status": "ready",
+  "inputs": [],
+  "outputs": [
+    {
+      "kind": "case",
+      "path": "case.json",
+      "sha256": "7a7a2bfbce082cc901d636478db55ef700367153c1008b939e838681dd91a99f"
+    }
+  ],
+  "gates": [
+    {
+      "name": "identity-anchor",
+      "passed": true,
+      "detail": "南浦制造（虚构）· 1998–2024"
+    }
+  ],
+  "unresolved": [],
+  "notes": [],
+  "created_at": "2026-09-19T09:09:13.910008+00:00",
+  "schema_version": "xray-handoff/1"
+}

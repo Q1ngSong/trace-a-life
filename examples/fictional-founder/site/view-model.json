@@ -1,0 +1,1342 @@
+{
+  "case_schema_version": "trace-a-life/1",
+  "cover": {
+    "provenance": {
+      "collection_backend": "synthetic_demo",
+      "notes": "全部人物、公司、文件与引文均为虚构，仅用于功能演示。",
+      "researched_at": "2026-08-31",
+      "collection_workspace": "",
+      "verification_rounds": [
+        {
+          "completed_at": "2026-08-31T10:00:00+08:00",
+          "queries_checked": [
+            "query-01-01",
+            "query-01-02",
+            "query-01-03",
+            "query-01-04",
+            "query-01-05",
+            "query-01-06",
+            "query-01-07"
+          ],
+          "round": "A_support_chain"
+        },
+        {
+          "completed_at": "2026-08-31T11:00:00+08:00",
+          "queries_checked": [
+            "query-02-01",
+            "query-02-02",
+            "query-02-03",
+            "query-02-04",
+            "query-02-05",
+            "query-02-06",
+            "query-02-07"
+          ],
+          "round": "B_counterevidence"
+        },
+        {
+          "completed_at": "2026-08-31T12:00:00+08:00",
+          "queries_checked": [
+            "query-03-01",
+            "query-03-02",
+            "query-03-03",
+            "query-03-04",
+            "query-03-05",
+            "query-03-06",
+            "query-03-07"
+          ],
+          "round": "C_causal_attack"
+        }
+      ]
+    },
+    "report": {
+      "as_of": "2026-08-31",
+      "dek": "他并非在一个瞬间押中未来：贸易现金流、地方产业政策、长期搭档与一次逆周期收购，共同构成了后来被简化成“眼光”的成功。",
+      "eyebrow": "虚构演示 / 商业生平调查",
+      "thesis": "最关键的能力不是冒险，而是在三个周期里不断改变自己对控制权的定义：先控制渠道，再控制产能，最后主动放弃日常经营权以保住家族的长期投票权。",
+      "title": "林深：一部被拆开的商业传奇"
+    },
+    "scope": {
+      "in_scope": [
+        "公开商业活动",
+        "公司与资本关系",
+        "关键决策",
+        "财富传承"
+      ],
+      "jurisdictions": [
+        "虚构司法辖区"
+      ],
+      "objective": "演示商业生平调查、证据核验与网页生成",
+      "out_of_scope": [
+        "私人住址",
+        "日常行踪",
+        "未成年子女",
+        "医疗与非公开隐私"
+      ],
+      "time_range": "1987–2024"
+    },
+    "subject": {
+      "aliases": [
+        "Lin Shen"
+      ],
+      "anchor": "南浦制造（虚构）· 1998–2024",
+      "known_for": "从零部件贸易进入制造业，并在代际交班前主动收缩版图",
+      "lifespan": "1962—",
+      "name": "林深",
+      "portrait": "",
+      "summary": "这是一个完全虚构的演示案件，用来展示如何把“白手起家”的单线传奇，拆成资本、周期、团队、关系与代际控制权共同作用的商业史。"
+    }
+  },
+  "fact": {
+    "contexts": [
+      {
+        "id": "context-001",
+        "period": "1996–2004",
+        "source_ids": [
+          "src-003"
+        ],
+        "summary": "企业扩张并非只发生在市场内部；补贴、土地与授信协调降低了从贸易转向制造的门槛。",
+        "title": "地方园区用设备补贴换取产能与就业",
+        "type": "产业政策"
+      },
+      {
+        "id": "context-002",
+        "period": "2002–2008",
+        "source_ids": [
+          "src-003",
+          "src-004"
+        ],
+        "summary": "收购发生在资产便宜时，增长则发生在需求复苏后。把两者都归为个人眼光会忽略周期。",
+        "title": "低谷资产价格与随后需求扩张叠加",
+        "type": "行业周期"
+      },
+      {
+        "id": "context-003",
+        "period": "2015–2022",
+        "source_ids": [
+          "src-006",
+          "src-007"
+        ],
+        "summary": "职业经理人、家族信托与董事会席位成为不同的治理工具，传承不再等于下一代直接接班。",
+        "title": "家族企业从职位继承转向控制权分层",
+        "type": "治理观念"
+      }
+    ],
+    "decisions": [
+      {
+        "alternative_explanations": [
+          "地方招商可能比客户要求更直接地推动设厂",
+          "周岚可能是主动发起者而非被邀请者"
+        ],
+        "alternatives": [
+          "继续做轻资产贸易",
+          "独资建厂并雇佣工程团队",
+          "与已有工厂签长期排他协议"
+        ],
+        "constraints": [
+          "资本有限",
+          "缺少制造经验",
+          "客户集中"
+        ],
+        "date": "1998",
+        "decision": "与工程师周岚共同设立制造实体，林深以客户与资金入股，周岚以团队和工艺能力入股。",
+        "falsifier": "若找到同期合伙协议或会议记录，显示创办方案完全由另一方提出，需重写决策归属。",
+        "id": "decision-001",
+        "interpretation": "现有材料更支持互补资源促成合伙，而不是林深独自完成产业跃迁。",
+        "interpretation_status": "inference",
+        "known_at_time": [
+          "下游客户开始要求稳定质量与长期供货",
+          "纯贸易毛利下降",
+          "周岚团队掌握可迁移的工艺经验"
+        ],
+        "outcome": "公司在五年内建立了稳定产能，但林深必须分享股权与技术决策权。",
+        "source_ids": [
+          "src-001",
+          "src-002"
+        ],
+        "title": "从贸易商变成制造者"
+      },
+      {
+        "alternative_explanations": [
+          "主要驱动力可能是地方希望承接就业，而非企业主动寻找资产"
+        ],
+        "alternatives": [
+          "推迟扩产",
+          "购买全新设备",
+          "把增量订单外包给同行"
+        ],
+        "constraints": [
+          "授信附带资产抵押",
+          "客户意向不是刚性订单",
+          "整合原团队存在文化风险"
+        ],
+        "date": "2003",
+        "decision": "承接破产企业的存量设备与部分技术人员，快速扩大产能。",
+        "falsifier": "若授信合同显示融资在收购完成后才落实，需降低政策和银行支持的因果权重。",
+        "id": "decision-002",
+        "interpretation": "逆周期判断重要，但政策与融资条件使这项判断可执行。",
+        "interpretation_status": "fact",
+        "known_at_time": [
+          "设备处置价格显著下降",
+          "核心客户提出未来两年扩量意向",
+          "园区提供技改补贴并协调授信"
+        ],
+        "outcome": "公司获得成本优势并进入快速增长期，但负债和固定成本同步上升。",
+        "source_ids": [
+          "src-003",
+          "src-004"
+        ],
+        "title": "在行业低谷买下产线"
+      },
+      {
+        "alternative_explanations": [
+          "安排也可能是监管或融资方对治理提出的条件",
+          "家族内部可能未就继任人达成一致"
+        ],
+        "alternatives": [
+          "由长女直接接任 CEO",
+          "彻底出售控股权",
+          "继续由创始人掌权"
+        ],
+        "constraints": [
+          "家族控制偏好",
+          "职业经理人激励",
+          "多位受益人的利益协调"
+        ],
+        "date": "2022",
+        "decision": "将日常经营交给职业经理人，把部分家族投票权集中到长期信托。",
+        "falsifier": "若后续信托契约或董事会文件表明职业经理人只是过渡安排，需要重估制度化分权的持久性。",
+        "id": "decision-003",
+        "interpretation": "公开安排显示创始人把传承理解为控制机制设计，而非职位复制。",
+        "interpretation_status": "inference",
+        "known_at_time": [
+          "上一轮海外扩张暴露了家族决策集中风险",
+          "下一代已有董事经验但缺少制造运营履历",
+          "核心客户要求治理连续性"
+        ],
+        "outcome": "公司实现经营交接，家族仍保留制度化影响力。",
+        "source_ids": [
+          "src-006",
+          "src-007"
+        ],
+        "title": "不让下一代直接接任 CEO"
+      }
+    ],
+    "evidence": {
+      "claims": [
+        {
+          "counterevidence": "用公司曾用名与登记号检索，未发现更早的同一法律实体；品牌更早出现但属于贸易个体户。",
+          "evidence": [
+            {
+              "quote": "南浦机械有限公司于1998年4月18日设立，林深认缴60%，周岚认缴40%。",
+              "source_id": "src-001"
+            }
+          ],
+          "explanation": "设立登记直接记录了成立日期、股东与比例。",
+          "id": "claim-001",
+          "importance": "critical",
+          "independent_origin_clusters": 1,
+          "source_ids": [
+            "src-001"
+          ],
+          "status": "verified",
+          "text": "林深与周岚于1998年共同设立南浦机械，林深持有60%登记股权。"
+        },
+        {
+          "counterevidence": "检索1988–1992年地方工商摘要与行业报刊，尚未找到对应金额或交易对手。",
+          "evidence": [
+            {
+              "quote": "真正让我有了周转本钱的，是1989年那批压在港口的轴承。",
+              "source_id": "src-002"
+            }
+          ],
+          "explanation": "目前只能追溯到林深本人2009年的回忆，没有同期账簿或独立报道。",
+          "id": "claim-002",
+          "importance": "critical",
+          "independent_origin_clusters": 1,
+          "source_ids": [
+            "src-002"
+          ],
+          "status": "self_reported",
+          "text": "林深的第一笔主要资本来自1989年的一批进口轴承转售。"
+        },
+        {
+          "counterevidence": "没有证据支持后来采访中“完全靠自有现金拿下”的绝对说法。",
+          "evidence": [
+            {
+              "quote": "园区对南浦机械的存量设备承接项目给予技改补贴，并协调两家银行提供项目授信。",
+              "source_id": "src-003"
+            },
+            {
+              "quote": "交易资金由企业自有资金、园区技改支持和新增授信三部分构成。",
+              "source_id": "src-004"
+            }
+          ],
+          "explanation": "园区年度文件与同期独立报道来自两个不同源头，均指向补贴和授信。",
+          "id": "claim-003",
+          "importance": "critical",
+          "independent_origin_clusters": 2,
+          "source_ids": [
+            "src-003",
+            "src-004"
+          ],
+          "status": "credible",
+          "text": "2003年的逆周期收购同时依赖地方设备补贴和新增银行授信，而非完全由个人现金完成。"
+        },
+        {
+          "counterevidence": "债务重组公告与后来的公司回顾在动机表述上存在差异。",
+          "evidence": [
+            {
+              "quote": "公司将出售两项非核心资产，并以所得资金偿还到期借款；主要债权人同意将剩余借款展期十八个月。",
+              "source_id": "src-005"
+            }
+          ],
+          "explanation": "业务确实收缩，但公告显示它与债务展期和资产出售同步发生，不能只写成主动战略升级。",
+          "id": "claim-004",
+          "importance": "supporting",
+          "independent_origin_clusters": 1,
+          "source_ids": [
+            "src-005"
+          ],
+          "status": "partial",
+          "text": "2017年的业务收缩是一次主动且从容的战略选择。"
+        },
+        {
+          "counterevidence": "未发现下一代已获得日常经营职位的证据；公开材料支持“制度化分权”而不是简单父传女。",
+          "evidence": [
+            {
+              "quote": "相关股份的经济受益权归各受益人所有，投票权由林氏长期信托依据信托契约统一行使。",
+              "source_id": "src-006"
+            },
+            {
+              "quote": "董事会任命外部职业经理人顾言为首席执行官，林深不再参与日常经营。",
+              "source_id": "src-007"
+            }
+          ],
+          "explanation": "交易所文件直接记录投票权安排，独立产业媒体确认职业经理人接任。",
+          "id": "claim-005",
+          "importance": "critical",
+          "independent_origin_clusters": 2,
+          "source_ids": [
+            "src-006",
+            "src-007"
+          ],
+          "status": "credible",
+          "text": "2022年的传承安排把日常经营权交给职业经理人，同时由家族信托集中部分投票权。"
+        }
+      ],
+      "importance_counts": {
+        "critical": 4,
+        "supporting": 1
+      },
+      "sources": [
+        {
+          "accessed_at": "2026-08-31",
+          "id": "src-001",
+          "notes": "虚构示例",
+          "origin_cluster": "registry-nanpu",
+          "published_at": "1998-04-18",
+          "publisher": "虚构企业登记局",
+          "role": "primary",
+          "source_document_id": "",
+          "title": "南浦机械设立登记（虚构）",
+          "type": "registry",
+          "url": "https://registry.example.invalid/nanpu-1998"
+        },
+        {
+          "accessed_at": "2026-08-31",
+          "id": "src-002",
+          "notes": "虚构示例",
+          "origin_cluster": "lin-interview-2009",
+          "published_at": "2009-06-01",
+          "publisher": "商业人物月刊",
+          "role": "self_report",
+          "source_document_id": "",
+          "title": "林深口述：第一批货是怎么卖出去的（虚构）",
+          "type": "interview",
+          "url": "https://archive.example.invalid/interview-2009"
+        },
+        {
+          "accessed_at": "2026-08-31",
+          "id": "src-003",
+          "notes": "虚构示例",
+          "origin_cluster": "park-annual-2003",
+          "published_at": "2004-02-12",
+          "publisher": "虚构南浦工业园",
+          "role": "primary",
+          "source_document_id": "",
+          "title": "南浦工业园产业扶持年度报告（虚构）",
+          "type": "filing",
+          "url": "https://gov.example.invalid/park-report-2003"
+        },
+        {
+          "accessed_at": "2026-08-31",
+          "id": "src-004",
+          "notes": "虚构示例",
+          "origin_cluster": "north-finance-2003",
+          "published_at": "2003-11-09",
+          "publisher": "北岸财经",
+          "role": "independent",
+          "source_document_id": "",
+          "title": "制造业寒冬里的买家（虚构）",
+          "type": "news",
+          "url": "https://news.example.invalid/cycle-acquisition-2003"
+        },
+        {
+          "accessed_at": "2026-08-31",
+          "id": "src-005",
+          "notes": "虚构示例",
+          "origin_cluster": "exchange-restructuring-2017",
+          "published_at": "2017-08-22",
+          "publisher": "虚构证券交易所",
+          "role": "primary",
+          "source_document_id": "",
+          "title": "南浦制造债务重组公告（虚构）",
+          "type": "filing",
+          "url": "https://exchange.example.invalid/nanpu-2017"
+        },
+        {
+          "accessed_at": "2026-08-31",
+          "id": "src-006",
+          "notes": "虚构示例",
+          "origin_cluster": "exchange-voting-2022",
+          "published_at": "2022-05-16",
+          "publisher": "虚构证券交易所",
+          "role": "primary",
+          "source_document_id": "",
+          "title": "林氏持股与投票权安排说明（虚构）",
+          "type": "filing",
+          "url": "https://exchange.example.invalid/nanpu-voting-2022"
+        },
+        {
+          "accessed_at": "2026-08-31",
+          "id": "src-007",
+          "notes": "虚构示例",
+          "origin_cluster": "industry-watch-2022",
+          "published_at": "2022-05-18",
+          "publisher": "产业观察",
+          "role": "independent",
+          "source_document_id": "",
+          "title": "南浦完成职业经理人交接（虚构）",
+          "type": "news",
+          "url": "https://news.example.invalid/nanpu-succession-2022"
+        }
+      ],
+      "status_counts": {
+        "credible": 2,
+        "partial": 1,
+        "self_reported": 1,
+        "verified": 1
+      },
+      "unresolved_questions": [
+        {
+          "claim_ids": [
+            "claim-002"
+          ],
+          "id": "gap-001",
+          "impact": "会改变‘第一桶金’叙事的可信度，但不改变1998年公司设立事实。",
+          "next_query": "寻找港口仓单、海关摘要、早期合作方口述或税务档案的合法公开版本。",
+          "question": "1989年轴承交易的金额与交易对手能否被同期材料确认？",
+          "searched": "已查地方工商摘要、1988–1992年行业报刊索引和2009年采访的转载链。"
+        },
+        {
+          "claim_ids": [],
+          "id": "gap-002",
+          "impact": "会改变对传承决策动机的解释。",
+          "next_query": "寻找债权人协议、董事会会议摘要或管理层同期演讲。",
+          "question": "2022年治理安排主要出于长期制度设计，还是融资方提出的条件？",
+          "searched": "已查交易所说明和两篇产业报道，均未披露谈判过程。"
+        }
+      ]
+    },
+    "life_stages": [
+      {
+        "events": [
+          {
+            "chapter_id": "origins",
+            "claim_ids": [],
+            "date": "1987",
+            "date_label": "1987",
+            "epistemic_status": "self_report",
+            "id": "event-001",
+            "source_ids": [
+              "src-002"
+            ],
+            "summary": "林深开始为区域工厂撮合轴承与标准件交易，先积累客户与账期，而不是先建工厂。",
+            "title": "进入零部件贸易"
+          },
+          {
+            "chapter_id": "origins",
+            "claim_ids": [
+              "claim-002"
+            ],
+            "date": "1989",
+            "date_label": "1989",
+            "epistemic_status": "self_report",
+            "id": "event-002",
+            "source_ids": [
+              "src-002"
+            ],
+            "summary": "本人称一批进口轴承转售形成第一笔主要周转资本，但公开资料尚不能独立核实。",
+            "title": "“第一桶金”的唯一现存版本"
+          },
+          {
+            "chapter_id": "origins",
+            "claim_ids": [
+              "claim-001"
+            ],
+            "date": "1998-04-18",
+            "date_label": "1998",
+            "epistemic_status": "fact",
+            "id": "event-003",
+            "source_ids": [
+              "src-001"
+            ],
+            "summary": "登记文件首次把贸易网络、工程能力与股权结构放进同一法律实体。",
+            "title": "与周岚共同设立南浦机械"
+          }
+        ],
+        "id": "origins",
+        "label": "起家",
+        "summary": "早期财富并非来自神秘的一笔交易，而是零部件贸易、供应商账期与地方信用安排叠加形成的滚动资本。",
+        "title": "先有现金流，后有工厂",
+        "years": "1987–1999"
+      },
+      {
+        "events": [
+          {
+            "chapter_id": "ascent",
+            "claim_ids": [
+              "claim-003"
+            ],
+            "date": "2003-10",
+            "date_label": "2003",
+            "epistemic_status": "fact",
+            "id": "event-004",
+            "source_ids": [
+              "src-003",
+              "src-004"
+            ],
+            "summary": "行业低谷降低了设备价格；地方补贴和银行授信共同完成资金闭环。",
+            "title": "逆周期承接闲置产线"
+          },
+          {
+            "chapter_id": "ascent",
+            "claim_ids": [],
+            "date": "2008",
+            "date_label": "2008",
+            "epistemic_status": "fact",
+            "id": "event-005",
+            "source_ids": [
+              "src-004"
+            ],
+            "summary": "公司完成质量体系升级并进入两家大型客户的长期供应体系。",
+            "title": "从供应商进入整机核心名录"
+          }
+        ],
+        "id": "ascent",
+        "label": "登顶",
+        "summary": "逆周期收购让公司跨过产能门槛，但成功同时依赖园区政策、银行授信和共同创办人的工程团队。",
+        "title": "把渠道优势换成制造壁垒",
+        "years": "2000–2011"
+      },
+      {
+        "events": [
+          {
+            "chapter_id": "turning-point",
+            "claim_ids": [],
+            "date": "2015",
+            "date_label": "2015",
+            "epistemic_status": "inference",
+            "id": "event-006",
+            "source_ids": [
+              "src-005"
+            ],
+            "summary": "新产能爬坡慢于预期，短债比例上升；后来被称为“战略收缩”的动作尚未发生。",
+            "title": "海外扩张挤压现金流"
+          },
+          {
+            "chapter_id": "turning-point",
+            "claim_ids": [
+              "claim-004"
+            ],
+            "date": "2017-08-22",
+            "date_label": "2017",
+            "epistemic_status": "fact",
+            "id": "event-007",
+            "source_ids": [
+              "src-005"
+            ],
+            "summary": "收缩既包含主动取舍，也受到短期偿债压力驱动。",
+            "title": "出售资产并完成债务展期"
+          }
+        ],
+        "id": "turning-point",
+        "label": "转折",
+        "summary": "海外扩张拖累现金流，公众叙事中的“果断收缩”实际上经历了两年犹豫和一次债务重组。",
+        "title": "规模成为负担",
+        "years": "2012–2018"
+      },
+      {
+        "events": [
+          {
+            "chapter_id": "legacy",
+            "claim_ids": [
+              "claim-005"
+            ],
+            "date": "2022-05",
+            "date_label": "2022",
+            "epistemic_status": "fact",
+            "id": "event-008",
+            "source_ids": [
+              "src-006",
+              "src-007"
+            ],
+            "summary": "职业经理人接手经营，家族通过信托维持部分长期投票安排。",
+            "title": "经营权与投票权分轨"
+          }
+        ],
+        "id": "legacy",
+        "label": "退出 / 传承",
+        "summary": "家族没有简单把职位传给下一代，而是拆开经营权、投票权与公益资产，降低单一继承人的失败风险。",
+        "title": "交出经营权，保留制度化控制",
+        "years": "2019–2024"
+      }
+    ],
+    "oral_history": {
+      "disclosures": [],
+      "interviews": [],
+      "summary": ""
+    },
+    "relationships": {
+      "edges": [
+        {
+          "epistemic_status": "fact",
+          "id": "edge-001",
+          "label": "创办 / 控制",
+          "period": "1998–2022",
+          "source": "person-lin",
+          "source_ids": [
+            "src-001",
+            "src-006"
+          ],
+          "target": "company-nanpu"
+        },
+        {
+          "epistemic_status": "fact",
+          "id": "edge-002",
+          "label": "共同创办 / 技术",
+          "period": "1998–",
+          "source": "person-zhou",
+          "source_ids": [
+            "src-001"
+          ],
+          "target": "company-nanpu"
+        },
+        {
+          "epistemic_status": "fact",
+          "id": "edge-003",
+          "label": "补贴 / 协调授信",
+          "period": "2003",
+          "source": "institution-park",
+          "source_ids": [
+            "src-003"
+          ],
+          "target": "company-nanpu"
+        },
+        {
+          "epistemic_status": "fact",
+          "id": "edge-004",
+          "label": "融资 / 展期",
+          "period": "2003–2017",
+          "source": "capital-bank",
+          "source_ids": [
+            "src-004",
+            "src-005"
+          ],
+          "target": "company-nanpu"
+        },
+        {
+          "epistemic_status": "fact",
+          "id": "edge-005",
+          "label": "设立安排",
+          "period": "2022",
+          "source": "person-lin",
+          "source_ids": [
+            "src-006"
+          ],
+          "target": "trust-family"
+        },
+        {
+          "epistemic_status": "fact",
+          "id": "edge-006",
+          "label": "集中部分投票权",
+          "period": "2022–",
+          "source": "trust-family",
+          "source_ids": [
+            "src-006"
+          ],
+          "target": "company-nanpu"
+        }
+      ],
+      "nodes": [
+        {
+          "description": "项目授信与债务展期",
+          "id": "capital-bank",
+          "label": "银团",
+          "type": "capital"
+        },
+        {
+          "description": "核心经营实体",
+          "id": "company-nanpu",
+          "label": "南浦制造",
+          "type": "company"
+        },
+        {
+          "description": "政策与项目协调方",
+          "id": "institution-park",
+          "label": "南浦工业园",
+          "type": "institution"
+        },
+        {
+          "description": "创始人",
+          "id": "person-lin",
+          "label": "林深",
+          "type": "person"
+        },
+        {
+          "description": "共同创办人、工程负责人",
+          "id": "person-zhou",
+          "label": "周岚",
+          "type": "person"
+        },
+        {
+          "description": "部分家族投票权安排",
+          "id": "trust-family",
+          "label": "林氏长期信托",
+          "type": "institution"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "chapter_id": "origins",
+        "claim_ids": [],
+        "date": "1987",
+        "date_label": "1987",
+        "epistemic_status": "self_report",
+        "id": "event-001",
+        "source_ids": [
+          "src-002"
+        ],
+        "summary": "林深开始为区域工厂撮合轴承与标准件交易，先积累客户与账期，而不是先建工厂。",
+        "title": "进入零部件贸易"
+      },
+      {
+        "chapter_id": "origins",
+        "claim_ids": [
+          "claim-002"
+        ],
+        "date": "1989",
+        "date_label": "1989",
+        "epistemic_status": "self_report",
+        "id": "event-002",
+        "source_ids": [
+          "src-002"
+        ],
+        "summary": "本人称一批进口轴承转售形成第一笔主要周转资本，但公开资料尚不能独立核实。",
+        "title": "“第一桶金”的唯一现存版本"
+      },
+      {
+        "chapter_id": "origins",
+        "claim_ids": [
+          "claim-001"
+        ],
+        "date": "1998-04-18",
+        "date_label": "1998",
+        "epistemic_status": "fact",
+        "id": "event-003",
+        "source_ids": [
+          "src-001"
+        ],
+        "summary": "登记文件首次把贸易网络、工程能力与股权结构放进同一法律实体。",
+        "title": "与周岚共同设立南浦机械"
+      },
+      {
+        "chapter_id": "ascent",
+        "claim_ids": [
+          "claim-003"
+        ],
+        "date": "2003-10",
+        "date_label": "2003",
+        "epistemic_status": "fact",
+        "id": "event-004",
+        "source_ids": [
+          "src-003",
+          "src-004"
+        ],
+        "summary": "行业低谷降低了设备价格；地方补贴和银行授信共同完成资金闭环。",
+        "title": "逆周期承接闲置产线"
+      },
+      {
+        "chapter_id": "ascent",
+        "claim_ids": [],
+        "date": "2008",
+        "date_label": "2008",
+        "epistemic_status": "fact",
+        "id": "event-005",
+        "source_ids": [
+          "src-004"
+        ],
+        "summary": "公司完成质量体系升级并进入两家大型客户的长期供应体系。",
+        "title": "从供应商进入整机核心名录"
+      },
+      {
+        "chapter_id": "turning-point",
+        "claim_ids": [],
+        "date": "2015",
+        "date_label": "2015",
+        "epistemic_status": "inference",
+        "id": "event-006",
+        "source_ids": [
+          "src-005"
+        ],
+        "summary": "新产能爬坡慢于预期，短债比例上升；后来被称为“战略收缩”的动作尚未发生。",
+        "title": "海外扩张挤压现金流"
+      },
+      {
+        "chapter_id": "turning-point",
+        "claim_ids": [
+          "claim-004"
+        ],
+        "date": "2017-08-22",
+        "date_label": "2017",
+        "epistemic_status": "fact",
+        "id": "event-007",
+        "source_ids": [
+          "src-005"
+        ],
+        "summary": "收缩既包含主动取舍，也受到短期偿债压力驱动。",
+        "title": "出售资产并完成债务展期"
+      },
+      {
+        "chapter_id": "legacy",
+        "claim_ids": [
+          "claim-005"
+        ],
+        "date": "2022-05",
+        "date_label": "2022",
+        "epistemic_status": "fact",
+        "id": "event-008",
+        "source_ids": [
+          "src-006",
+          "src-007"
+        ],
+        "summary": "职业经理人接手经营，家族通过信托维持部分长期投票安排。",
+        "title": "经营权与投票权分轨"
+      }
+    ],
+    "wealth": {
+      "stages": [
+        {
+          "id": "wealth-001",
+          "mechanism": "渠道 / 账期",
+          "period": "1987–1998",
+          "source_ids": [
+            "src-002"
+          ],
+          "summary": "通过客户预付款、供应商账期与库存周转形成资本。",
+          "title": "贸易现金流"
+        },
+        {
+          "id": "wealth-002",
+          "mechanism": "股权 / 产能",
+          "period": "1998–2017",
+          "source_ids": [
+            "src-001",
+            "src-003",
+            "src-005"
+          ],
+          "summary": "财富主要绑定在企业股权、设备与客户合同，规模上升但流动性下降。",
+          "title": "制造股权"
+        },
+        {
+          "id": "wealth-003",
+          "mechanism": "信托 / 治理",
+          "period": "2018–2024",
+          "source_ids": [
+            "src-006",
+            "src-007"
+          ],
+          "summary": "经营权交给职业经理人，家族经济受益与部分投票权通过不同机制安排。",
+          "title": "控制权分层"
+        }
+      ],
+      "summary": "财富形态经历了三次变化：从可滚动的贸易现金流，转为难以快速变现的制造股权，再被拆成经济受益权、投票权与公益资产。",
+      "transfers": [
+        {
+          "id": "transfer-001",
+          "period": "2022",
+          "source_ids": [
+            "src-006"
+          ],
+          "summary": "部分股份的经济受益权与投票权分离，投票权依信托契约统一行使。",
+          "title": "投票权集中"
+        },
+        {
+          "id": "transfer-002",
+          "period": "2022",
+          "source_ids": [
+            "src-007"
+          ],
+          "summary": "职业经理人出任 CEO，下一代保留董事会参与但不直接负责日常经营。",
+          "title": "经营权外部化"
+        }
+      ]
+    }
+  },
+  "indexes": {
+    "claims": {
+      "claim-001": {
+        "counterevidence": "用公司曾用名与登记号检索，未发现更早的同一法律实体；品牌更早出现但属于贸易个体户。",
+        "evidence": [
+          {
+            "quote": "南浦机械有限公司于1998年4月18日设立，林深认缴60%，周岚认缴40%。",
+            "source_id": "src-001"
+          }
+        ],
+        "explanation": "设立登记直接记录了成立日期、股东与比例。",
+        "id": "claim-001",
+        "importance": "critical",
+        "independent_origin_clusters": 1,
+        "source_ids": [
+          "src-001"
+        ],
+        "status": "verified",
+        "text": "林深与周岚于1998年共同设立南浦机械，林深持有60%登记股权。"
+      },
+      "claim-002": {
+        "counterevidence": "检索1988–1992年地方工商摘要与行业报刊，尚未找到对应金额或交易对手。",
+        "evidence": [
+          {
+            "quote": "真正让我有了周转本钱的，是1989年那批压在港口的轴承。",
+            "source_id": "src-002"
+          }
+        ],
+        "explanation": "目前只能追溯到林深本人2009年的回忆，没有同期账簿或独立报道。",
+        "id": "claim-002",
+        "importance": "critical",
+        "independent_origin_clusters": 1,
+        "source_ids": [
+          "src-002"
+        ],
+        "status": "self_reported",
+        "text": "林深的第一笔主要资本来自1989年的一批进口轴承转售。"
+      },
+      "claim-003": {
+        "counterevidence": "没有证据支持后来采访中“完全靠自有现金拿下”的绝对说法。",
+        "evidence": [
+          {
+            "quote": "园区对南浦机械的存量设备承接项目给予技改补贴，并协调两家银行提供项目授信。",
+            "source_id": "src-003"
+          },
+          {
+            "quote": "交易资金由企业自有资金、园区技改支持和新增授信三部分构成。",
+            "source_id": "src-004"
+          }
+        ],
+        "explanation": "园区年度文件与同期独立报道来自两个不同源头，均指向补贴和授信。",
+        "id": "claim-003",
+        "importance": "critical",
+        "independent_origin_clusters": 2,
+        "source_ids": [
+          "src-003",
+          "src-004"
+        ],
+        "status": "credible",
+        "text": "2003年的逆周期收购同时依赖地方设备补贴和新增银行授信，而非完全由个人现金完成。"
+      },
+      "claim-004": {
+        "counterevidence": "债务重组公告与后来的公司回顾在动机表述上存在差异。",
+        "evidence": [
+          {
+            "quote": "公司将出售两项非核心资产，并以所得资金偿还到期借款；主要债权人同意将剩余借款展期十八个月。",
+            "source_id": "src-005"
+          }
+        ],
+        "explanation": "业务确实收缩，但公告显示它与债务展期和资产出售同步发生，不能只写成主动战略升级。",
+        "id": "claim-004",
+        "importance": "supporting",
+        "independent_origin_clusters": 1,
+        "source_ids": [
+          "src-005"
+        ],
+        "status": "partial",
+        "text": "2017年的业务收缩是一次主动且从容的战略选择。"
+      },
+      "claim-005": {
+        "counterevidence": "未发现下一代已获得日常经营职位的证据；公开材料支持“制度化分权”而不是简单父传女。",
+        "evidence": [
+          {
+            "quote": "相关股份的经济受益权归各受益人所有，投票权由林氏长期信托依据信托契约统一行使。",
+            "source_id": "src-006"
+          },
+          {
+            "quote": "董事会任命外部职业经理人顾言为首席执行官，林深不再参与日常经营。",
+            "source_id": "src-007"
+          }
+        ],
+        "explanation": "交易所文件直接记录投票权安排，独立产业媒体确认职业经理人接任。",
+        "id": "claim-005",
+        "importance": "critical",
+        "independent_origin_clusters": 2,
+        "source_ids": [
+          "src-006",
+          "src-007"
+        ],
+        "status": "credible",
+        "text": "2022年的传承安排把日常经营权交给职业经理人，同时由家族信托集中部分投票权。"
+      }
+    },
+    "sources": {
+      "src-001": {
+        "accessed_at": "2026-08-31",
+        "id": "src-001",
+        "notes": "虚构示例",
+        "origin_cluster": "registry-nanpu",
+        "published_at": "1998-04-18",
+        "publisher": "虚构企业登记局",
+        "role": "primary",
+        "source_document_id": "",
+        "title": "南浦机械设立登记（虚构）",
+        "type": "registry",
+        "url": "https://registry.example.invalid/nanpu-1998"
+      },
+      "src-002": {
+        "accessed_at": "2026-08-31",
+        "id": "src-002",
+        "notes": "虚构示例",
+        "origin_cluster": "lin-interview-2009",
+        "published_at": "2009-06-01",
+        "publisher": "商业人物月刊",
+        "role": "self_report",
+        "source_document_id": "",
+        "title": "林深口述：第一批货是怎么卖出去的（虚构）",
+        "type": "interview",
+        "url": "https://archive.example.invalid/interview-2009"
+      },
+      "src-003": {
+        "accessed_at": "2026-08-31",
+        "id": "src-003",
+        "notes": "虚构示例",
+        "origin_cluster": "park-annual-2003",
+        "published_at": "2004-02-12",
+        "publisher": "虚构南浦工业园",
+        "role": "primary",
+        "source_document_id": "",
+        "title": "南浦工业园产业扶持年度报告（虚构）",
+        "type": "filing",
+        "url": "https://gov.example.invalid/park-report-2003"
+      },
+      "src-004": {
+        "accessed_at": "2026-08-31",
+        "id": "src-004",
+        "notes": "虚构示例",
+        "origin_cluster": "north-finance-2003",
+        "published_at": "2003-11-09",
+        "publisher": "北岸财经",
+        "role": "independent",
+        "source_document_id": "",
+        "title": "制造业寒冬里的买家（虚构）",
+        "type": "news",
+        "url": "https://news.example.invalid/cycle-acquisition-2003"
+      },
+      "src-005": {
+        "accessed_at": "2026-08-31",
+        "id": "src-005",
+        "notes": "虚构示例",
+        "origin_cluster": "exchange-restructuring-2017",
+        "published_at": "2017-08-22",
+        "publisher": "虚构证券交易所",
+        "role": "primary",
+        "source_document_id": "",
+        "title": "南浦制造债务重组公告（虚构）",
+        "type": "filing",
+        "url": "https://exchange.example.invalid/nanpu-2017"
+      },
+      "src-006": {
+        "accessed_at": "2026-08-31",
+        "id": "src-006",
+        "notes": "虚构示例",
+        "origin_cluster": "exchange-voting-2022",
+        "published_at": "2022-05-16",
+        "publisher": "虚构证券交易所",
+        "role": "primary",
+        "source_document_id": "",
+        "title": "林氏持股与投票权安排说明（虚构）",
+        "type": "filing",
+        "url": "https://exchange.example.invalid/nanpu-voting-2022"
+      },
+      "src-007": {
+        "accessed_at": "2026-08-31",
+        "id": "src-007",
+        "notes": "虚构示例",
+        "origin_cluster": "industry-watch-2022",
+        "published_at": "2022-05-18",
+        "publisher": "产业观察",
+        "role": "independent",
+        "source_document_id": "",
+        "title": "南浦完成职业经理人交接（虚构）",
+        "type": "news",
+        "url": "https://news.example.invalid/nanpu-succession-2022"
+      }
+    }
+  },
+  "schema_version": "trace-a-life/view-model/1",
+  "simulation": {
+    "fact_freeze": {
+      "frozen_at": "2026-08-31T12:00:00+08:00",
+      "notes": "虚构演示案件，已通过结构校验。",
+      "status": "frozen"
+    },
+    "label": "SIMULATION / 非史实",
+    "layer": "simulation",
+    "scenarios": [
+      {
+        "epistemic_status": "simulation",
+        "fact_freeze_at": "2026-08-31T12:00:00+08:00",
+        "id": "scenario-001",
+        "limitations": [
+          "虚构演示",
+          "不是历史证据",
+          "不代表统计预测概率"
+        ],
+        "mirofish_version": "demo-only",
+        "question": "南浦继续保持轻资产贸易模式会怎样？",
+        "signals": [
+          "客户是否把长期订单优先给拥有产能的供应商",
+          "同业外包产能在需求复苏期的价格变化",
+          "没有固定资产时银行授信条件是否反而更差"
+        ],
+        "summary": "沙盘认为公司可能保持更低负债和更高流动性，但也更容易在客户集中采购后失去议价权。该结果只用于暴露权衡，不是对未发生历史的证明。",
+        "title": "如果2003年没有承接产线"
+      }
+    ]
+  },
+  "traceability": {
+    "content_refs": {
+      "claims:claim-001": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-001"
+        ]
+      },
+      "claims:claim-002": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-002"
+        ]
+      },
+      "claims:claim-003": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-003",
+          "src-004"
+        ]
+      },
+      "claims:claim-004": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-005"
+        ]
+      },
+      "claims:claim-005": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-006",
+          "src-007"
+        ]
+      },
+      "contexts:context-001": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-003"
+        ]
+      },
+      "contexts:context-002": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-003",
+          "src-004"
+        ]
+      },
+      "contexts:context-003": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-006",
+          "src-007"
+        ]
+      },
+      "decisions:decision-001": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-001",
+          "src-002"
+        ]
+      },
+      "decisions:decision-002": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-003",
+          "src-004"
+        ]
+      },
+      "decisions:decision-003": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-006",
+          "src-007"
+        ]
+      },
+      "events:event-001": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-002"
+        ]
+      },
+      "events:event-002": {
+        "claim_ids": [
+          "claim-002"
+        ],
+        "source_ids": [
+          "src-002"
+        ]
+      },
+      "events:event-003": {
+        "claim_ids": [
+          "claim-001"
+        ],
+        "source_ids": [
+          "src-001"
+        ]
+      },
+      "events:event-004": {
+        "claim_ids": [
+          "claim-003"
+        ],
+        "source_ids": [
+          "src-003",
+          "src-004"
+        ]
+      },
+      "events:event-005": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-004"
+        ]
+      },
+      "events:event-006": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-005"
+        ]
+      },
+      "events:event-007": {
+        "claim_ids": [
+          "claim-004"
+        ],
+        "source_ids": [
+          "src-005"
+        ]
+      },
+      "events:event-008": {
+        "claim_ids": [
+          "claim-005"
+        ],
+        "source_ids": [
+          "src-006",
+          "src-007"
+        ]
+      },
+      "relationship_edges:edge-001": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-001",
+          "src-006"
+        ]
+      },
+      "relationship_edges:edge-002": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-001"
+        ]
+      },
+      "relationship_edges:edge-003": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-003"
+        ]
+      },
+      "relationship_edges:edge-004": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-004",
+          "src-005"
+        ]
+      },
+      "relationship_edges:edge-005": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-006"
+        ]
+      },
+      "relationship_edges:edge-006": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-006"
+        ]
+      },
+      "wealth_stages:wealth-001": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-002"
+        ]
+      },
+      "wealth_stages:wealth-002": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-001",
+          "src-003",
+          "src-005"
+        ]
+      },
+      "wealth_stages:wealth-003": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-006",
+          "src-007"
+        ]
+      },
+      "wealth_transfers:transfer-001": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-006"
+        ]
+      },
+      "wealth_transfers:transfer-002": {
+        "claim_ids": [],
+        "source_ids": [
+          "src-007"
+        ]
+      }
+    },
+    "simulation": {
+      "scenario_count": 1,
+      "scenario_ids": [
+        "scenario-001"
+      ],
+      "scenario_sha256": {
+        "scenario-001": "fc9857da7338ea69fe327995c6d56a991a5eb76cc46f222e29919da48c773aff"
+      }
+    }
+  }
+}

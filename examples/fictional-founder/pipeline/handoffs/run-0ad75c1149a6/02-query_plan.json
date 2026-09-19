@@ -1,0 +1,38 @@
+{
+  "run_id": "run-0ad75c1149a6",
+  "case_id": "fictional-founder",
+  "stage": "query_plan",
+  "producer": "research-agent",
+  "consumer": "leader-agent",
+  "status": "ready",
+  "inputs": [
+    {
+      "kind": "case",
+      "path": "case.json",
+      "sha256": "7a7a2bfbce082cc901d636478db55ef700367153c1008b939e838681dd91a99f"
+    }
+  ],
+  "outputs": [
+    {
+      "kind": "query-plan",
+      "path": "research/query-plan.json",
+      "sha256": "048fe1ed1125f0395758e3a9d6f244711468fd54d18fc996a849a59c7b60e185"
+    }
+  ],
+  "gates": [
+    {
+      "name": "seven-research-lanes",
+      "passed": true,
+      "detail": "21 queries"
+    },
+    {
+      "name": "identity-anchor-in-query",
+      "passed": true,
+      "detail": "南浦制造（虚构）"
+    }
+  ],
+  "unresolved": [],
+  "notes": [],
+  "created_at": "2026-09-19T09:09:13.911086+00:00",
+  "schema_version": "xray-handoff/1"
+}

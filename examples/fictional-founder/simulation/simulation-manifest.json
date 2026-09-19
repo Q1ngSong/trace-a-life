@@ -1,0 +1,16 @@
+{
+  "schema_version": "x-ray-mirofish-seed/1",
+  "subject": "林深",
+  "question": "如果2003年不承接产线，关系网络和财富路径会怎样变化？",
+  "fact_freeze_at": "2026-08-31T12:00:00+08:00",
+  "source_case": "case.json",
+  "source_case_sha256": "276a99081b65918679e3db15b8161d5ee1804291317dce0713544d8604364bfb",
+  "seed_file": "mirofish-seed.md",
+  "seed_sha256": "5ad4aa337ba277fdc3d764c6594d169de82e1f3b87acd21d18df06c06d17f63f",
+  "epistemic_status": "simulation-input",
+  "allowed_claim_statuses": [
+    "credible",
+    "partial",
+    "verified"
+  ]
+}

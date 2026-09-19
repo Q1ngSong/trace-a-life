@@ -1,0 +1,48 @@
+{
+  "run_id": "run-0ad75c1149a6",
+  "case_id": "fictional-founder",
+  "stage": "verification",
+  "producer": "evidence-agent",
+  "consumer": "leader-agent",
+  "status": "ready",
+  "inputs": [
+    {
+      "kind": "case",
+      "path": "case.json",
+      "sha256": "7a7a2bfbce082cc901d636478db55ef700367153c1008b939e838681dd91a99f"
+    },
+    {
+      "kind": "collection-plan",
+      "path": "research/collection-plan.json",
+      "sha256": "f4ce7f33eb83f848cf62c6644c21a8f0edef3d038bcd752cacd94421cab6faa1"
+    }
+  ],
+  "outputs": [
+    {
+      "kind": "verification-report",
+      "path": "research/verification-report.json",
+      "sha256": "0d12900029f035a7d68c4560201e2a507e43e6f03006921d4cb400b0d1aa3f79"
+    }
+  ],
+  "gates": [
+    {
+      "name": "five-gate-interview-analysis",
+      "passed": true,
+      "detail": "all full transcripts audited"
+    },
+    {
+      "name": "three-round-audit",
+      "passed": true,
+      "detail": "A_support_chain, B_counterevidence, C_causal_attack"
+    },
+    {
+      "name": "evidence-stop-gate",
+      "passed": true,
+      "detail": "5 claim(s)"
+    }
+  ],
+  "unresolved": [],
+  "notes": [],
+  "created_at": "2026-09-19T09:09:13.916689+00:00",
+  "schema_version": "xray-handoff/1"
+}

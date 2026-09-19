@@ -1,0 +1,2 @@
+experiment_id,status,command,observed,unverified,notes
+demo-factcheck-wave2,passed,"python3 -m unittest discover -s skills/trace-a-life/tests -p 'test_factcheck.py' -v","3 tests cover exact normalized Chinese quote matching, missing/empty evidence, visible statuses, and explicit duplicate-name candidates","provider-specific payloads, real web retrieval, human adjudication quality","no network and no claim-status mutation"

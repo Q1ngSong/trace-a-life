@@ -1,0 +1,82 @@
+{
+  "case_id": "fictional-founder",
+  "run_id": "run-0ad75c1149a6",
+  "schema_version": "xray-run/1",
+  "current_stage": "delivery",
+  "stages": {
+    "intake": {
+      "stage": "intake",
+      "owner": "intake-agent",
+      "status": "accepted",
+      "handoff_path": "pipeline/handoffs/run-0ad75c1149a6/01-intake.json",
+      "updated_at": "2026-09-19T09:09:13.910230+00:00",
+      "detail": ""
+    },
+    "query_plan": {
+      "stage": "query_plan",
+      "owner": "research-agent",
+      "status": "accepted",
+      "handoff_path": "pipeline/handoffs/run-0ad75c1149a6/02-query_plan.json",
+      "updated_at": "2026-09-19T09:09:13.911279+00:00",
+      "detail": ""
+    },
+    "collection": {
+      "stage": "collection",
+      "owner": "collection-agent",
+      "status": "accepted",
+      "handoff_path": "pipeline/handoffs/run-0ad75c1149a6/03-collection.json",
+      "updated_at": "2026-09-19T09:09:13.913006+00:00",
+      "detail": "Existing case sources are reused; no host collection call was executed by this command."
+    },
+    "verification": {
+      "stage": "verification",
+      "owner": "evidence-agent",
+      "status": "accepted",
+      "handoff_path": "pipeline/handoffs/run-0ad75c1149a6/04-verification.json",
+      "updated_at": "2026-09-19T09:09:13.916943+00:00",
+      "detail": ""
+    },
+    "analysis": {
+      "stage": "analysis",
+      "owner": "analysis-agent",
+      "status": "accepted",
+      "handoff_path": "pipeline/handoffs/run-0ad75c1149a6/05-analysis.json",
+      "updated_at": "2026-09-19T09:09:13.918713+00:00",
+      "detail": ""
+    },
+    "fact_freeze": {
+      "stage": "fact_freeze",
+      "owner": "leader-agent",
+      "status": "accepted",
+      "handoff_path": "pipeline/handoffs/run-0ad75c1149a6/06-fact_freeze.json",
+      "updated_at": "2026-09-19T09:09:13.919326+00:00",
+      "detail": ""
+    },
+    "simulation": {
+      "stage": "simulation",
+      "owner": "mirofish-agent",
+      "status": "skipped",
+      "handoff_path": "",
+      "updated_at": "2026-09-19T09:09:13.919498+00:00",
+      "detail": "explicitly skipped"
+    },
+    "presentation": {
+      "stage": "presentation",
+      "owner": "web-agent",
+      "status": "accepted",
+      "handoff_path": "pipeline/handoffs/run-0ad75c1149a6/08-presentation.json",
+      "updated_at": "2026-09-19T09:09:13.921993+00:00",
+      "detail": ""
+    },
+    "delivery": {
+      "stage": "delivery",
+      "owner": "qa-agent",
+      "status": "accepted",
+      "handoff_path": "pipeline/handoffs/run-0ad75c1149a6/09-delivery.json",
+      "updated_at": "2026-09-19T09:09:13.930707+00:00",
+      "detail": ""
+    }
+  },
+  "created_at": "2026-09-19T09:09:13.909433+00:00",
+  "updated_at": "2026-09-19T09:09:13.930707+00:00"
+}

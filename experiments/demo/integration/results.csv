@@ -1,0 +1,2 @@
+experiment,baseline,commands,status,tests,outputs,limitations
+wave-2-demo-integration,exp/demo/integration,"python3 -B -m pytest -q skills/trace-a-life/tests/test_demo_flow.py; python3 -B -m pytest -q tests skills/trace-a-life/tests --ignore=references",passed,"1 integration test; 91 full tests","isolated replay output with collection/factcheck/analysis/page/manifest","Replay fixture only; live still requires a host-supplied attested ToolResult"

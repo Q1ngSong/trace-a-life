@@ -1,0 +1,7 @@
+# Tencent Cloud ASR and private COS upload support.
+tencentcloud-sdk-python>=3.0,<4
+cos-python-sdk-v5>=1.9,<2
+python-dotenv>=1.0,<2
+# macOS system Python 3.9 links LibreSSL; urllib3 2.x emits a warning on every
+# request even though Tencent SDK calls succeed. Keep the compatible 1.26 line.
+urllib3>=1.26,<2
